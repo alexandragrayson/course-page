@@ -7,8 +7,13 @@ A portfolio has many benefits, here are just a few: <br>
 3. Shows your self-starter spirit, which boosts competitiveness for internships, jobs, and college. <br>
 4. Helps people find you, including future collaborators, colleagues, and mentors/mentees.
 
-References: [MIT Career Advising & Professional Development Office](https://capd.mit.edu/benefit-of-portfolios/)
+References: [MIT Career Advising & Professional Development Office](https://capd.mit.edu/benefit-of-portfolios/)  <br>
 [Intuit Blog](https://www.intuit.com/blog/social-responsibility/job-readiness/data-science-portfolio/)
+Example portfolios: <br>
+[Perla Molina](https://perlamolina.me/) <br>
+[Lanre Akinbo](https://lanre-akinbo.github.io/portfolio/) <br>
+[Ijeamaka Anyene](https://ijeamaka.art/portfolio/) <br>
+And a few example [GitHub profiles used as primary portfolios](https://datastoryteller.gumroad.com/p/example-github-portfolios)
 
 ## Setting up your starter site
 Before we get started, first you'll need a portfolio website to work from. We'll be hosting our portfolios with GitHub Pages, which is a particularly common hosting tool for data scientists. Others include Adobe Portfolio, Google Sites, and Cargo for example.
