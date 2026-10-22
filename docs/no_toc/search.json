@@ -141,148 +141,148 @@
   {
     "objectID": "_2e-linkedin.html",
     "href": "_2e-linkedin.html",
-    "title": "3  2.5 LinkedIn",
+    "title": "2.5 LinkedIn",
     "section": "",
     "text": "LinkedIn profile checklist\nLinkedIn profile tips for high school students\nFrom a former LinkedIn employee: I Worked at LinkedIn. Stop Making These Profile Mistakes and I Worked at LinkedIn. Here’s How to Fix Your Profile.",
     "crumbs": [
       "2 Getting Started with Accounts and Repositories",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>2.5 LinkedIn</span>"
+      "2.5 LinkedIn"
     ]
   },
   {
     "objectID": "_2f-kaggle.html",
     "href": "_2f-kaggle.html",
-    "title": "4  2.6 Kaggle",
+    "title": "2.6 Kaggle",
     "section": "",
     "text": "Start with The Beginner’s Guide to Kaggle. Some competitions to try:\n\nDigit Recognizer, an essential computer vision problem if that interests you\nTitanic: Machine Learning from Disaster\nSpaceship Titanic\nHouse Prices: Advanced Regression Techniques\nStore Sales: Time Series Forecasting\nContradictory, My Dear Watson\nNatural Language Processing with Disaster Tweets",
     "crumbs": [
       "2 Getting Started with Accounts and Repositories",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>2.6 Kaggle</span>"
+      "2.6 Kaggle"
     ]
   },
   {
     "objectID": "_3-home-page.html",
     "href": "_3-home-page.html",
-    "title": "5  Your home page",
+    "title": "3  Your home page",
     "section": "",
-    "text": "5.1 Fill in index.html\nLots of simple commits to make on your index.html and optional ones on your styles.css.",
+    "text": "3.1 Fill in index.html\nLots of simple commits to make on your index.html and optional ones on your styles.css.",
     "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Your home page</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Your home page</span>"
     ]
   },
   {
     "objectID": "_3-home-page.html#fill-in-index.html",
     "href": "_3-home-page.html#fill-in-index.html",
-    "title": "5  Your home page",
+    "title": "3  Your home page",
     "section": "",
     "text": "Where it says ‘DataTrail Student Name’, replace it with your name\nWhere it says ‘Data Science Student’, you can either keep this or replace this with another short tidbit about what you do/what your data science interests are\nYou’ll replace the social links here with your profile links you’ve created (Github, Linkedin, Kaggle).\nWhere it says name[at]school.edu, you’ll write your school email\nWhere it says name[at]codeintheschools.edu, you’ll write your Code in the Schools email address.\nYou’ll write your bio where the lorem ipsum boilerplate text is.\nRelevant Coursework: List your classes you’ve enjoyed or done particularly well in. Feel free to list your GPA or grades in these classes.\nExperience: If you have a job, school clubs, volunteer experiences, internships, programs you’ve participated in, or research assistantships you’ve done that you want to highlight – list them here!",
     "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Your home page</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Your home page</span>"
     ]
   },
   {
     "objectID": "_3-home-page.html#images-and-documents",
     "href": "_3-home-page.html#images-and-documents",
-    "title": "5  Your home page",
-    "section": "5.2 Images and documents",
-    "text": "5.2 Images and documents\n\nYou’ll upload your headshot to the images/ folder\nYou’ll also upload your CV (as a PDF) to the documents/ folder\nImportant! If the names of these documents are different than the template names (Sample_CV CiTS.pdf and my_headshot.jpeg), you will go into the index.html and change these relative path names to point to the name of your CV and/or your headshot instead.",
+    "title": "3  Your home page",
+    "section": "3.2 Images and documents",
+    "text": "3.2 Images and documents\n\nYou’ll upload your headshot to the images/ folder\nYou’ll also upload your CV (as a PDF) to the documents/ folder\nImportant! If the names of these documents are different than the template names (Sample_CV CiTS.pdf and my_headshot.jpeg), you will go into the index.html and change these relative path names to point to the name of your CV and/or your headshot instead.",
     "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Your home page</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Your home page</span>"
     ]
   },
   {
     "objectID": "_3-home-page.html#customize-fonts-and-colors-optional",
     "href": "_3-home-page.html#customize-fonts-and-colors-optional",
-    "title": "5  Your home page",
-    "section": "5.3 Customize fonts and colors (optional)",
-    "text": "5.3 Customize fonts and colors (optional)\nStill in index.html, there are some design updates you can make. Namely, to fonts and icons:\nRight now the font in here is ‘Manrope’. You can browse new fonts at this link: - Google Fonts To change this font, you’ll click ‘Get Font’ once you click on the font that you want. You can get the embed code for either ‘One value’ the one that is currently selected or the ‘Full axis’ (all of the weight options). I used and recommend two font weights, one bold and one not bold, but feel free to take creative liberty. Where it says ’Embed code in the\n\nof your html’, you’ll copy this code and replace the equivalent lines for the template fonts. If you have questions about this, feel free to ask your professor. You will also want to change this where the ‘font-family’ is defined for the .body section in the styles.css file And where ‘font-weight’ is defined for the h2 under your headshot, you will change it to one of the font weights that you downloaded.\nYou may notice there are icons next to your CV, and for your socials links. If you want to change these, add more, or just check out the other options, you can do so here: - Font Awesome icons Wherever you see: i class=… in your index.html, this is an icon. You can update these or add them where appropriate (perhaps in your projects.html links when we get there).\nIn styles.css, the color scheme for most of the site elements is set. The teal accent color in the template can be changed by changing the hex code listed next to –link-color. Here is a site to browse for new colors. You can also do this in several code editors, like VSCode. Feel free to ask your instructor for a quick tutorial on this: - HTML color picker",
+    "title": "3  Your home page",
+    "section": "3.3 Customize fonts and colors (optional)",
+    "text": "3.3 Customize fonts and colors (optional)\nStill in index.html, there are some design updates you can make. Namely, to fonts and icons:\nRight now the font in here is ‘Manrope’. You can browse new fonts at this link: - Google Fonts To change this font, you’ll click ‘Get Font’ once you click on the font that you want. You can get the embed code for either ‘One value’ the one that is currently selected or the ‘Full axis’ (all of the weight options). I used and recommend two font weights, one bold and one not bold, but feel free to take creative liberty. Where it says ’Embed code in the\n\nof your html’, you’ll copy this code and replace the equivalent lines for the template fonts. If you have questions about this, feel free to ask your professor. You will also want to change this where the ‘font-family’ is defined for the .body section in the styles.css file And where ‘font-weight’ is defined for the h2 under your headshot, you will change it to one of the font weights that you downloaded.\nYou may notice there are icons next to your CV, and for your socials links. If you want to change these, add more, or just check out the other options, you can do so here: - Font Awesome icons Wherever you see: i class=… in your index.html, this is an icon. You can update these or add them where appropriate (perhaps in your projects.html links when we get there).\nIn styles.css, the color scheme for most of the site elements is set. The teal accent color in the template can be changed by changing the hex code listed next to –link-color. Here is a site to browse for new colors. You can also do this in several code editors, like VSCode. Feel free to ask your instructor for a quick tutorial on this: - HTML color picker",
     "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Your home page</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Your home page</span>"
     ]
   },
   {
     "objectID": "_4-links.html",
     "href": "_4-links.html",
-    "title": "6  Populating your links",
+    "title": "4  Populating your links",
     "section": "",
-    "text": "Fill in each link in index.html:\n\nGitHub: https://github.com/&lt;username&gt;\nLinkedIn: your public profile URL\nKaggle: https://www.kaggle.com/&lt;username&gt;\nBlog: https://&lt;username&gt;.github.io/blog/ (see Chapter Chapter 9)",
+    "text": "Fill in each link in index.html:\n\nGitHub: https://github.com/&lt;username&gt;\nLinkedIn: your public profile URL\nKaggle: https://www.kaggle.com/&lt;username&gt;\nBlog: https://&lt;username&gt;.github.io/blog/ (see Chapter Chapter 7)",
     "crumbs": [
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Populating your links</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Populating your links</span>"
     ]
   },
   {
     "objectID": "_5-news.html",
     "href": "_5-news.html",
-    "title": "7  news.html",
+    "title": "5  news.html",
     "section": "",
     "text": "Take a moment to think through recent academic and professional accomplishments You were accepted into DataTrail! Other things that count as news: 1. classes 2. grades and test scores 3. awards 4. events, conferences, and competitions you’ve attended or participated in 5. new blog posts\nWrite a list of these in your notes and pick your favorites. Note the date they happened and update the news.html file",
     "crumbs": [
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>news.html</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>news.html</span>"
     ]
   },
   {
     "objectID": "_6-projects.html",
     "href": "_6-projects.html",
-    "title": "8  projects.html",
+    "title": "6  projects.html",
     "section": "",
-    "text": "A project is an item that has a deliverable that you would like to showcase (i.e. a paper, code, a repository, a presentation, a model, a video, data visualizations).\nRight now the template project section has a card for:\n\nA class project - a project from class (it can be DataTrail or from school),\nYour blog, and\nYour DataTrail capstone project:\n\nWrite in your notes the name or title for at least one project that could be classified as each of these Draft a short description And compile any links to your project’s deliverables. If you don’t want to link to an external Drive or DropBox for example, you’ll want to download these and upload them to the docs folder in your portfolio’s repository. There can be some benefits to using these online storage platforms, as for many of them you can readily see traffic link clicks are getting.\nRight now, there are boilerplate photos in this section. In a later assignment, you’ll use your favorite plot as the capstone project photo.\nOther links will be styled here later in the course: your slide deck link (?sec-slide-deck), and DataTrail Python notebook results (Chapter 10). If your capstone leads to a publication or presentation, you can link to that here too.",
+    "text": "A project is an item that has a deliverable that you would like to showcase (i.e. a paper, code, a repository, a presentation, a model, a video, data visualizations).\nRight now the template project section has a card for:\n\nA class project - a project from class (it can be DataTrail or from school),\nYour blog, and\nYour DataTrail capstone project:\n\nWrite in your notes the name or title for at least one project that could be classified as each of these Draft a short description And compile any links to your project’s deliverables. If you don’t want to link to an external Drive or DropBox for example, you’ll want to download these and upload them to the docs folder in your portfolio’s repository. There can be some benefits to using these online storage platforms, as for many of them you can readily see traffic link clicks are getting.\nRight now, there are boilerplate photos in this section. In a later assignment, you’ll use your favorite plot as the capstone project photo.\nOther links will be styled here later in the course: your slide deck link (?sec-slide-deck), and DataTrail Python notebook results (Chapter 8). If your capstone leads to a publication or presentation, you can link to that here too.",
     "crumbs": [
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>projects.html</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>projects.html</span>"
     ]
   },
   {
     "objectID": "_7-whyblog.html",
     "href": "_7-whyblog.html",
-    "title": "9  Setting up your blog",
+    "title": "7  Setting up your blog",
     "section": "",
-    "text": "9.1 Why blog?\nYou might be wondering why a blog is valuable to you as a data scientist. Hopefully one of these convinces you it’s a fun and worthwhile outlet:",
+    "text": "7.1 Why blog?\nYou might be wondering why a blog is valuable to you as a data scientist. Hopefully one of these convinces you it’s a fun and worthwhile outlet:",
     "crumbs": [
       "7 Blog Assignments",
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Setting up your blog</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Setting up your blog</span>"
     ]
   },
   {
     "objectID": "_7-whyblog.html#why-blog",
     "href": "_7-whyblog.html#why-blog",
-    "title": "9  Setting up your blog",
+    "title": "7  Setting up your blog",
     "section": "",
     "text": "5 Reasons Why Every Data Scientist Should Blog\nWhy Data Scientists Should Definitely Be Writing for Medium\nUnorthodox Reasons Why Data Scientists Should Start a Blog",
     "crumbs": [
       "7 Blog Assignments",
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Setting up your blog</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Setting up your blog</span>"
     ]
   },
   {
     "objectID": "_7-whyblog.html#pick-a-template",
     "href": "_7-whyblog.html#pick-a-template",
-    "title": "9  Setting up your blog",
-    "section": "9.2 Pick a template",
-    "text": "9.2 Pick a template\nI’m using this template, and have a template in my github repository for your use but there are lots of great ones:\n\nFuwari\nAstroPaper\nAstroship\nFirefly\nChalk\nblog-template-gray\n\nSet it up in your blog repo by following the template’s README. It’ll be at the following link: https://&lt;username&gt;.github.io/blog/.\nYou’ll update the index.html NAVBAR section’s link to your blog from the current example.com to this link!",
+    "title": "7  Setting up your blog",
+    "section": "7.2 Pick a template",
+    "text": "7.2 Pick a template\nI’m using this template, and have a template in my github repository for your use but there are lots of great ones:\n\nFuwari\nAstroPaper\nAstroship\nFirefly\nChalk\nblog-template-gray\n\nSet it up in your blog repo by following the template’s README. It’ll be at the following link: https://&lt;username&gt;.github.io/blog/.\nYou’ll update the index.html NAVBAR section’s link to your blog from the current example.com to this link!",
     "crumbs": [
       "7 Blog Assignments",
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Setting up your blog</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Setting up your blog</span>"
     ]
   },
   {
     "objectID": "_7-whyblog.html#your-first-post",
     "href": "_7-whyblog.html#your-first-post",
-    "title": "9  Setting up your blog",
-    "section": "9.3 Your first post",
-    "text": "9.3 Your first post",
+    "title": "7  Setting up your blog",
+    "section": "7.3 Your first post",
+    "text": "7.3 Your first post",
     "crumbs": [
       "7 Blog Assignments",
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Setting up your blog</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Setting up your blog</span>"
     ]
   },
   {
     "objectID": "_7-whyblog.html#writing-tips",
     "href": "_7-whyblog.html#writing-tips",
-    "title": "9  Setting up your blog",
-    "section": "9.4 Writing tips",
-    "text": "9.4 Writing tips\n\nWriting an Academic Blog (Hamilton College)\nHow to Write for an Academic Blog (UACES)",
+    "title": "7  Setting up your blog",
+    "section": "7.4 Writing tips",
+    "text": "7.4 Writing tips\n\nWriting an Academic Blog (Hamilton College)\nHow to Write for an Academic Blog (UACES)",
     "crumbs": [
       "7 Blog Assignments",
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Setting up your blog</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Setting up your blog</span>"
     ]
   },
   {
@@ -343,31 +343,31 @@
   {
     "objectID": "_8-further-customizing.html",
     "href": "_8-further-customizing.html",
-    "title": "10  Finishing touches",
+    "title": "8  Finishing touches",
     "section": "",
-    "text": "10.1 DataTrail course project entries\nAdd your results from projects/Python Notebooks/Kaggle competitions completed during DataTrail to projects.html, along with any additional photos you can upload to images/ folder.",
+    "text": "8.1 DataTrail course project entries\nAdd your results from projects/Python Notebooks/Kaggle competitions completed during DataTrail to projects.html, along with any additional photos you can upload to images/ folder.",
     "crumbs": [
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Finishing touches</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Finishing touches</span>"
     ]
   },
   {
     "objectID": "_8-further-customizing.html#add-a-favicon",
     "href": "_8-further-customizing.html#add-a-favicon",
-    "title": "10  Finishing touches",
-    "section": "10.2 Add a favicon",
-    "text": "10.2 Add a favicon\nA favicon is the small icon in the browser tab. Save a square image to images/ and add this inside the &lt;head&gt; of index.html:\n&lt;link rel=\"icon\" type=\"image/png\" href=\"images/favicon.png\"&gt;",
+    "title": "8  Finishing touches",
+    "section": "8.2 Add a favicon",
+    "text": "8.2 Add a favicon\nA favicon is the small icon in the browser tab. Save a square image to images/ and add this inside the &lt;head&gt; of index.html:\n&lt;link rel=\"icon\" type=\"image/png\" href=\"images/favicon.png\"&gt;",
     "crumbs": [
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Finishing touches</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Finishing touches</span>"
     ]
   },
   {
     "objectID": "_8-further-customizing.html#keep-customizing",
     "href": "_8-further-customizing.html#keep-customizing",
-    "title": "10  Finishing touches",
-    "section": "10.3 Keep customizing",
-    "text": "10.3 Keep customizing\nBrowse the font, icon, link underline options, and color sites from Chapter @ref(home-page). For HTML, CSS, and JavaScript tutorials on features you’d like to add, I recommend Kevin Powell’s videos.",
+    "title": "8  Finishing touches",
+    "section": "8.3 Keep customizing",
+    "text": "8.3 Keep customizing\nBrowse the font, icon, link underline options, and color sites from Chapter @ref(home-page). For HTML, CSS, and JavaScript tutorials on features you’d like to add, I recommend Kevin Powell’s videos.",
     "crumbs": [
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Finishing touches</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Finishing touches</span>"
     ]
   },
   {
