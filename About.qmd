@@ -15,20 +15,20 @@ These credits are based on our [course contributors table guidelines](https://ww
 ## | Acknowledgments | Gave small assistance to content but not to the level of consulting |
 | **Production** | |
 | Content Publisher(s) | Alexandra Grayson |
-##| Content Publishing Reviewer(s) | Reviewed overall content and aesthetics on publishing platform |
-##| **Technical** | |
-##| Course Publishing Engineer(s) | Helped with the code for the technical aspects related to the specific course generation |
+## | Content Publishing Reviewer(s) | Reviewed overall content and aesthetics on publishing platform |
+## | **Technical** | |
+## | Course Publishing Engineer(s) | Helped with the code for the technical aspects related to the specific course generation |
 | Template Publishing Engineers | [Candace Savonen], [Carrie Wright], [Ava Hoffman], [Kate Isaac], [Adam Coffman] |
 | Publishing Maintenance Engineer | [Candace Savonen] |
 | Technical Publishing Stylists | [Carrie Wright], [Ava Hoffman], [Candace Savonen], [Katherine Cox] |
 | Package Developers ([ottrpal]) | [Candace Savonen], [Ava Hoffman], [Howard Baek], [Kate Isaac], [Carrie Wright], [John Muschelli], [Adam Coffman] |
-#| **Art and Design** | |
-#| Illustrator(s) | Created graphics for the course |
-#| Figure Artist(s) | Created figures/plots for course |
-#| Videographer(s) | Filmed videos |
-#| Videography Editor(s) | Edited film |
-#| Audiographer(s) | Recorded audio |
-#| Audiography Editor(s) | Edited audio recordings |
+## | **Art and Design** | |
+## | Illustrator(s) | Created graphics for the course |
+## | Figure Artist(s) | Created figures/plots for course |
+## | Videographer(s) | Filmed videos |
+## | Videography Editor(s) | Edited film |
+## | Audiographer(s) | Recorded audio |
+## | Audiography Editor(s) | Edited audio recordings |
 | **Funding** | |
 | Funder(s) | Institution/individual who funded course including grant number |
 | Funding Staff | Staff members who help with funding |
