@@ -1,4 +1,4 @@
-## 2.5 LinkedIn {sec-linkedin .unnumbered} 
+## 2.5 LinkedIn {#sec-linkedin .unnumbered} 
 
 - [LinkedIn profile checklist](https://careered.stanford.edu/sites/g/files/sbiybj22801/files/media/file/linkedin-profile-checklist.pdf)
 - [LinkedIn profile tips for high school students](https://www.linkedin.com/pulse/linkedin-profile-tips-high-school-students-judy-schramm/)
