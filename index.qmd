@@ -1,14 +1,17 @@
-# Quarto Based OTTR Course {.unnumbered}
+# Start Here {.unnumbered}
 
-This course is part of a series of courses for the [Informatics Technology for Cancer Research (ITCR)](https://itcr.cancer.gov/) called the Informatics Technology for Cancer Research Education Resource. This material was created by the ITCR Training Network (ITN)  which is a collaborative effort of researchers around the United States to support cancer informatics and data science training through resources, technology, and events. This initiative is funded by the following grant:  [National Cancer Institute (NCI)](https://www.cancer.gov/)  UE5 CA254170. Our courses feature tools developed by ITCR Investigators and make it easier for principal investigators, scientists, and analysts to integrate cancer informatics into their workflows. Please see our website at [www.itcrtraining.org](www.itcrtraining.org) for more information.
+This course website is a reference for students in the Code in the Schools DataTrail course. As you complete the course's portfolio assignments, it is our hope that this will be a useful step-by-step guide to showcasing your work. This course will expand on some of the best practices for online data science professional portfolios.
 
+## Sections by Homework Assignment
 
-## Available Course Formats
+For DataTrail students following along with this site as a reference for the Homework Assignments, here are what sections match with your assignments' chronology.
 
-This course is available in multiple formats which allows you to take it in the way that best suites your needs. You can take it for certificate which can be for free or fee.
-
-- The material for this course can be viewed without login requirement on this [website](https://www.ottrproject.org/). This format might be most appropriate for you if you rely on screen-reader technology.
-- This course can be taken for [free certification through Leanpub](https://leanpub.com/).
-- This course can be taken on [Coursera for certification here](https://www.coursera.org/) (but it is not available for free on Coursera).
-- Our courses are open source, you can find the [source material for this course on GitHub](https://github.com/ottrproject/OTTR_Quarto).
-
+- Homework 1: Section 1, Section 2
+- Homework 2: Sections 3 through 5
+- Homework 3: Section 6, Sections 7 and 7.1
+- Homework 4: Section 7.2
+- Homework 5: Section 7.3, Section 6
+- Homework 6: Section 7.4
+- Homework 7: Section 7.5
+- Homework 8: Section 6
+- Final Portfolio: Optional: Section 8
