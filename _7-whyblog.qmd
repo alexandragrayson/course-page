@@ -1,4 +1,4 @@
-# 7 Setting up your blog {#sec-blog}
+# Setting up your blog {#sec-blog}
 
 ## Why blog?
 

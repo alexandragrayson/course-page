@@ -1,4 +1,4 @@
-# Blog post #4
+# 7.4 Blog post #4 {.unnumbered}
 
 ## Blog post #4: your 5 whys {#sec-post-4}
 

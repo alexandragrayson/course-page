@@ -1,4 +1,4 @@
-# Blog post #3
+# 7.3 Blog post #3 {.unnumbered}
 
 ## Blog post #3: data visualization {#sec-post-3}
 

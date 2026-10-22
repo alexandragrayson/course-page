@@ -1,4 +1,4 @@
-# Blog post #1
+# 7.1 Blog post #1  {.unnumbered}
 
 ## Blog post #1: question, design, and data {#sec-post-1}
 

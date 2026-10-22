@@ -1,4 +1,4 @@
-# Blog post #5
+# 7.5 Blog post #5 {.unnumbered}
 
 ## Blog post #5: your project results {#sec-post-5}
 
