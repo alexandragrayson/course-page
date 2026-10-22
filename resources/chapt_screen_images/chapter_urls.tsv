@@ -1,14 +1,14 @@
 chapt_title	data_level	url	img_path
 Introduction	1	https://alexandragrayson.github.io/portfolio-course-page/_1-intro.html	./resources/chapt_screen_images/_1-intro.png
 Accounts and repositories	2	https://alexandragrayson.github.io/portfolio-course-page/_2-prerequisites.html	./resources/chapt_screen_images/_2-prerequisites.png
-Your home page	3	https://alexandragrayson.github.io/portfolio-course-page/_3-home-page.html	./resources/chapt_screen_images/_3-home-page.png
-Populating your links	4	https://alexandragrayson.github.io/portfolio-course-page/_4-links.html	./resources/chapt_screen_images/_4-links.png
-news.html	5	https://alexandragrayson.github.io/portfolio-course-page/_5-news.html	./resources/chapt_screen_images/_5-news.png
-projects.html	6	https://alexandragrayson.github.io/portfolio-course-page/_6-projects.html	./resources/chapt_screen_images/_6-projects.png
-7 Setting up your blog	7	https://alexandragrayson.github.io/portfolio-course-page/_7-whyblog.html	./resources/chapt_screen_images/_7-whyblog.png
-Blog post #1	8	https://alexandragrayson.github.io/portfolio-course-page/_7a-blog1.html	./resources/chapt_screen_images/_7a-blog1.png
-Blog post #2	9	https://alexandragrayson.github.io/portfolio-course-page/_7b-blog2.html	./resources/chapt_screen_images/_7b-blog2.png
-Blog post #3	10	https://alexandragrayson.github.io/portfolio-course-page/_7c-blog3.html	./resources/chapt_screen_images/_7c-blog3.png
-Blog post #4	11	https://alexandragrayson.github.io/portfolio-course-page/_7d-blog4.html	./resources/chapt_screen_images/_7d-blog4.png
-Blog post #5	12	https://alexandragrayson.github.io/portfolio-course-page/_7e-blog5.html	./resources/chapt_screen_images/_7e-blog5.png
+2.1 and 2.2 Headshot and Bio {.unnumbered}	3	https://alexandragrayson.github.io/portfolio-course-page/_2a-headshot-and-2b-bio.html	./resources/chapt_screen_images/_2a-headshot-and-2b-bio.png
+2.3 GitHub {.unnumbered}	4	https://alexandragrayson.github.io/portfolio-course-page/_2c-github.html	./resources/chapt_screen_images/_2c-github.png
+2.4 CV {.unnumbered}	5	https://alexandragrayson.github.io/portfolio-course-page/_2d-cv.html	./resources/chapt_screen_images/_2d-cv.png
+2.5 LinkedIn {.unnumbered}	6	https://alexandragrayson.github.io/portfolio-course-page/_2e-linkedin.html	./resources/chapt_screen_images/_2e-linkedin.png
+2.6 Kaggle {.unnumbered}	7	https://alexandragrayson.github.io/portfolio-course-page/_2f-kaggle.html	./resources/chapt_screen_images/_2f-kaggle.png
+Your home page	8	https://alexandragrayson.github.io/portfolio-course-page/_3-home-page.html	./resources/chapt_screen_images/_3-home-page.png
+Populating your links	9	https://alexandragrayson.github.io/portfolio-course-page/_4-links.html	./resources/chapt_screen_images/_4-links.png
+news.html	10	https://alexandragrayson.github.io/portfolio-course-page/_5-news.html	./resources/chapt_screen_images/_5-news.png
+projects.html	11	https://alexandragrayson.github.io/portfolio-course-page/_6-projects.html	./resources/chapt_screen_images/_6-projects.png
+Setting up your blog	12	https://alexandragrayson.github.io/portfolio-course-page/_7-whyblog.html	./resources/chapt_screen_images/_7-whyblog.png
 Finishing touches	13	https://alexandragrayson.github.io/portfolio-course-page/_8-further-customizing.html	./resources/chapt_screen_images/_8-further-customizing.png
