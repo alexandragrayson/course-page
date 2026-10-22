@@ -1,9 +1,0 @@
-## projects.html
-
-Start an entry for each of these. You'll keep adding to them all course long.
-
-- **A class project**, with photos
-- **Your blog**, with a photo
-- **Your capstone:** a working title, a short description, and a link to your `capstone` repo
-
-Coming later: your favorite plot as the capstone photo (@sec-post-3), your slide deck link (@sec-slide-deck), and DataTrail project entries (@sec-finishing-touches). If your capstone leads to a publication, link it here too.
