@@ -2,7 +2,7 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Quarto Based OTTR Course",
+    "title": "DataTrail Portfolio Course",
     "section": "",
     "text": "Quarto Based OTTR Course\nThis course is part of a series of courses for the Informatics Technology for Cancer Research (ITCR) called the Informatics Technology for Cancer Research Education Resource. This material was created by the ITCR Training Network (ITN) which is a collaborative effort of researchers around the United States to support cancer informatics and data science training through resources, technology, and events. This initiative is funded by the following grant: National Cancer Institute (NCI) UE5 CA254170. Our courses feature tools developed by ITCR Investigators and make it easier for principal investigators, scientists, and analysts to integrate cancer informatics into their workflows. Please see our website at www.itcrtraining.org for more information.",
     "crumbs": [
@@ -12,7 +12,7 @@
   {
     "objectID": "index.html#available-course-formats",
     "href": "index.html#available-course-formats",
-    "title": "Quarto Based OTTR Course",
+    "title": "DataTrail Portfolio Course",
     "section": "Available Course Formats",
     "text": "Available Course Formats\nThis course is available in multiple formats which allows you to take it in the way that best suites your needs. You can take it for certificate which can be for free or fee.\n\nThe material for this course can be viewed without login requirement on this website. This format might be most appropriate for you if you rely on screen-reader technology.\nThis course can be taken for free certification through Leanpub.\nThis course can be taken on Coursera for certification here (but it is not available for free on Coursera).\nOur courses are open source, you can find the source material for this course on GitHub.",
     "crumbs": [
@@ -50,102 +50,323 @@
     ]
   },
   {
-    "objectID": "first-section-new-chapter.html",
-    "href": "first-section-new-chapter.html",
-    "title": "\n2  New Chapter\n",
+    "objectID": "_3a-prerequisites.html",
+    "href": "_3a-prerequisites.html",
+    "title": "2  Accounts and repositories",
     "section": "",
-    "text": "2.1 Learning Objectives\nEvery chapter also needs Learning objectives.",
+    "text": "2.1 GitHub\nDue with HW1. Capstone this week: 5 whys and gap analysis; research question.\nMake three repositories:\nThen personalize your GitHub profile.",
     "crumbs": [
-      "First Section",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>New Chapter</span>"
+      "Getting Started with Accounts and Repositories",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Accounts and repositories</span>"
     ]
   },
   {
-    "objectID": "first-section-new-chapter.html#libraries",
-    "href": "first-section-new-chapter.html#libraries",
-    "title": "\n2  New Chapter\n",
-    "section": "\n2.2 Libraries",
-    "text": "2.2 Libraries\nFor this chapter, we’ll need the following packages attached:\n*Remember to add any additional packages you need to your course’s own docker image.\n\nlibrary(magrittr)",
+    "objectID": "_3a-prerequisites.html#github",
+    "href": "_3a-prerequisites.html#github",
+    "title": "2  Accounts and repositories",
+    "section": "",
+    "text": "Portfolio: open the portfolio template, click Use this template → Create a new repository, and name it &lt;username&gt;.github.io using your exact GitHub username. Here’s what your site will look like.\nBlog: name it blog.\nCapstone: name it capstone for now.",
     "crumbs": [
-      "First Section",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>New Chapter</span>"
+      "Getting Started with Accounts and Repositories",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Accounts and repositories</span>"
     ]
   },
   {
-    "objectID": "first-section-new-chapter.html#topic-of-section",
-    "href": "first-section-new-chapter.html#topic-of-section",
-    "title": "\n2  New Chapter\n",
-    "section": "\n2.3 Topic of Section",
-    "text": "2.3 Topic of Section\nYou can write all your text in sections like this, using ## to indicate a new header. you can use additional pound symbols to create lower levels of headers.\nSee here for additional general information about how you can format text within R Markdown files. In addition, see here for more in depth and advanced options.\n\n2.3.1 Subtopic\nHere’s a subheading (using three pound symbols) and some text in this subsection!",
+    "objectID": "_3a-prerequisites.html#cv",
+    "href": "_3a-prerequisites.html#cv",
+    "title": "2  Accounts and repositories",
+    "section": "2.2 CV",
+    "text": "2.2 CV\n\nCode in the Schools’ resume template\nSample resume for high school students, with a resume verb list",
     "crumbs": [
-      "First Section",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>New Chapter</span>"
+      "Getting Started with Accounts and Repositories",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Accounts and repositories</span>"
     ]
   },
   {
-    "objectID": "first-section-new-chapter.html#code-examples",
-    "href": "first-section-new-chapter.html#code-examples",
-    "title": "\n2  New Chapter\n",
-    "section": "\n2.4 Code examples",
-    "text": "2.4 Code examples\nYou can demonstrate code like this:\n\noutput_dir &lt;- file.path(\"resources\", \"code_output\")\nif (!dir.exists(output_dir)) {\n  dir.create(output_dir)\n}\n\nAnd make plots too:\n\nhist_plot &lt;- hist(iris$Sepal.Length)\n\n\n\n\n\n\n\nYou can also save these plots to file:\n\npng(file.path(output_dir, \"test_plot.png\"))\nhist_plot\n\n$breaks\n[1] 4.0 4.5 5.0 5.5 6.0 6.5 7.0 7.5 8.0\n\n$counts\n[1]  5 27 27 30 31 18  6  6\n\n$density\n[1] 0.06666667 0.36000000 0.36000000 0.40000000 0.41333333 0.24000000 0.08000000\n[8] 0.08000000\n\n$mids\n[1] 4.25 4.75 5.25 5.75 6.25 6.75 7.25 7.75\n\n$xname\n[1] \"iris$Sepal.Length\"\n\n$equidist\n[1] TRUE\n\nattr(,\"class\")\n[1] \"histogram\"\n\ndev.off()\n\npng \n  2",
+    "objectID": "_3a-prerequisites.html#linkedin",
+    "href": "_3a-prerequisites.html#linkedin",
+    "title": "2  Accounts and repositories",
+    "section": "2.3 LinkedIn",
+    "text": "2.3 LinkedIn\n\nLinkedIn profile checklist\nLinkedIn profile tips for high school students\nFrom a former LinkedIn employee: I Worked at LinkedIn. Stop Making These Profile Mistakes and I Worked at LinkedIn. Here’s How to Fix Your Profile.",
     "crumbs": [
-      "First Section",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>New Chapter</span>"
+      "Getting Started with Accounts and Repositories",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Accounts and repositories</span>"
     ]
   },
   {
-    "objectID": "first-section-new-chapter.html#image-example",
-    "href": "first-section-new-chapter.html#image-example",
-    "title": "\n2  New Chapter\n",
-    "section": "\n2.5 Image example",
-    "text": "2.5 Image example\nHow to include a Google slide. It’s simplest to use the ottrpal package:\n\n\n\n\n\n\n\n\nBut if you have the slide or some other image locally downloaded you can also use HTML like this:",
+    "objectID": "_3a-prerequisites.html#kaggle",
+    "href": "_3a-prerequisites.html#kaggle",
+    "title": "2  Accounts and repositories",
+    "section": "2.4 Kaggle",
+    "text": "2.4 Kaggle\nStart with The Beginner’s Guide to Kaggle. Some competitions to try:\n\nDigit Recognizer, an essential computer vision problem if that interests you\nTitanic: Machine Learning from Disaster\nSpaceship Titanic\nHouse Prices: Advanced Regression Techniques\nStore Sales: Time Series Forecasting\nContradictory, My Dear Watson\nNatural Language Processing with Disaster Tweets",
     "crumbs": [
-      "First Section",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>New Chapter</span>"
+      "Getting Started with Accounts and Repositories",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Accounts and repositories</span>"
     ]
   },
   {
-    "objectID": "first-section-new-chapter.html#video-examples",
-    "href": "first-section-new-chapter.html#video-examples",
-    "title": "\n2  New Chapter\n",
-    "section": "\n2.6 Video examples",
-    "text": "2.6 Video examples\nYou may also want to embed videos in your course. If alternatively, you just want to include a link you can do so like this:\nCheck out this link to a video using markdown syntax.\n\n2.6.1 Using knitr\n\nTo embed videos in your course, you can use knitr::include_url() like this: Note that you should use echo=FALSE in the code chunk because we don’t want the code part of this to show up. If you are unfamiliar with how R Markdown code chunks work, read this.\n\n\n\n\n\n2.6.2 Using HTML\n\n\n\n2.6.3 Using knitr\n\n\n\n\n\n\n2.6.4 Using HTML",
+    "objectID": "_3a-prerequisites.html#headshot",
+    "href": "_3a-prerequisites.html#headshot",
+    "title": "2  Accounts and repositories",
+    "section": "2.5 Headshot",
+    "text": "2.5 Headshot",
     "crumbs": [
-      "First Section",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>New Chapter</span>"
+      "Getting Started with Accounts and Repositories",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Accounts and repositories</span>"
     ]
   },
   {
-    "objectID": "first-section-new-chapter.html#website-examples",
-    "href": "first-section-new-chapter.html#website-examples",
-    "title": "\n2  New Chapter\n",
-    "section": "\n2.7 Website Examples",
-    "text": "2.7 Website Examples\nYet again you can use a link to a website like so:\nA Website\nYou might want to have users open a website in a new tab by default, especially if they need to reference both the course and a resource at once.\nA Website\nOr, you can embed some websites.\n\n2.7.1 Using knitr\n\nThis works:\n\n\n\n\n\n2.7.2 Using HTML",
+    "objectID": "_3a-prerequisites.html#short-bio",
+    "href": "_3a-prerequisites.html#short-bio",
+    "title": "2  Accounts and repositories",
+    "section": "2.6 Short bio",
+    "text": "2.6 Short bio",
     "crumbs": [
-      "First Section",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>New Chapter</span>"
+      "Getting Started with Accounts and Repositories",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Accounts and repositories</span>"
     ]
   },
   {
-    "objectID": "first-section-new-chapter.html#stylized-boxes",
-    "href": "first-section-new-chapter.html#stylized-boxes",
-    "title": "\n2  New Chapter\n",
-    "section": "\n2.8 Stylized boxes",
-    "text": "2.8 Stylized boxes\nOccasionally, you might find it useful to emphasize a particular piece of information. To help you do so, we have provided css code and images (no need for you to worry about that!) to create the following stylized boxes.\nYou can use these boxes in your course with either of two options: using HTML code or Pandoc syntax.\n\n2.8.1 Using rmarkdown container syntax\nThe rmarkdown package allows for a different syntax to be converted to the HTML that you just saw and also allows for conversion to LaTeX. See the Bookdown documentation for more information. Note that Bookdown uses Pandoc.\n::: {.notice}\nNote using rmarkdown syntax.\n\n:::\n\nNote using rmarkdown syntax.\n\nAs an example you might do something like this:\n\nPlease click on the subsection headers in the left hand navigation bar (e.g., 2.1, 4.3) a second time to expand the table of contents and enable the scroll_highlight feature (see more)\n\n\n2.8.2 Using HTML\nTo add a warning box like the following use:\n\nFollowed by the text you want inside\n\nThis will create the following:\n\nFollowed by the text you want inside\n\nHere is a &lt;div class = \"warning\"&gt; box:\n\nNote text\n\nHere is a &lt;div class = \"github\"&gt; box:\n\nGitHub text\n\nHere is a &lt;div class = \"dictionary\"&gt; box:\n\ndictionary text\n\nHere is a &lt;div class = \"reflection\"&gt; box:\n\nreflection text\n\nHere is a &lt;div class = \"wip\"&gt; box:\n\nWork in Progress text",
+    "objectID": "_3b-bio-and-headshot.html",
+    "href": "_3b-bio-and-headshot.html",
+    "title": "3  Headshot",
+    "section": "",
+    "text": "3.1 Short bio",
     "crumbs": [
-      "First Section",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>New Chapter</span>"
+      "Getting Started with Accounts and Repositories",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Headshot</span>"
     ]
   },
   {
-    "objectID": "first-section-new-chapter.html#dropdown-summaries",
-    "href": "first-section-new-chapter.html#dropdown-summaries",
-    "title": "\n2  New Chapter\n",
-    "section": "\n2.9 Dropdown summaries",
-    "text": "2.9 Dropdown summaries\n\nYou can hide additional information in a dropdown menu\n\nHere’s more words that are hidden.",
+    "objectID": "_3c-github.html",
+    "href": "_3c-github.html",
+    "title": "4  GitHub",
+    "section": "",
+    "text": "Make three repositories:\n\nPortfolio: open the portfolio template, click Use this template → Create a new repository, and name it &lt;username&gt;.github.io using your exact GitHub username. Here’s what your site will look like.\nBlog: name it blog.\nCapstone: name it capstone for now.\n\nThen personalize your GitHub profile.",
     "crumbs": [
-      "First Section",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>New Chapter</span>"
+      "Getting Started with Accounts and Repositories",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>GitHub</span>"
+    ]
+  },
+  {
+    "objectID": "_3d-cv.html",
+    "href": "_3d-cv.html",
+    "title": "5  CV",
+    "section": "",
+    "text": "Code in the Schools’ resume template\nSample resume for high school students, with a resume verb list",
+    "crumbs": [
+      "Getting Started with Accounts and Repositories",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>CV</span>"
+    ]
+  },
+  {
+    "objectID": "_3e-linkedin.html",
+    "href": "_3e-linkedin.html",
+    "title": "6  LinkedIn",
+    "section": "",
+    "text": "LinkedIn profile checklist\nLinkedIn profile tips for high school students\nFrom a former LinkedIn employee: I Worked at LinkedIn. Stop Making These Profile Mistakes and I Worked at LinkedIn. Here’s How to Fix Your Profile.",
+    "crumbs": [
+      "Getting Started with Accounts and Repositories",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>LinkedIn</span>"
+    ]
+  },
+  {
+    "objectID": "_3f-kaggle.html",
+    "href": "_3f-kaggle.html",
+    "title": "7  Kaggle",
+    "section": "",
+    "text": "Start with The Beginner’s Guide to Kaggle. Some competitions to try:\n\nDigit Recognizer, an essential computer vision problem if that interests you\nTitanic: Machine Learning from Disaster\nSpaceship Titanic\nHouse Prices: Advanced Regression Techniques\nStore Sales: Time Series Forecasting\nContradictory, My Dear Watson\nNatural Language Processing with Disaster Tweets",
+    "crumbs": [
+      "Getting Started with Accounts and Repositories",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Kaggle</span>"
+    ]
+  },
+  {
+    "objectID": "_4-home-page.html",
+    "href": "_4-home-page.html",
+    "title": "8  Your home page",
+    "section": "",
+    "text": "8.1 Publish your site\nDue with HW2. Capstone this week: find and load your data; write a data dictionary.\nIn your portfolio repo, go to Settings → Pages and make sure it deploys from the main branch. Your site will be live at https://&lt;username&gt;.github.io.",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Your home page</span>"
+    ]
+  },
+  {
+    "objectID": "_4-home-page.html#fill-in-index.html",
+    "href": "_4-home-page.html#fill-in-index.html",
+    "title": "8  Your home page",
+    "section": "8.2 Fill in index.html",
+    "text": "8.2 Fill in index.html",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Your home page</span>"
+    ]
+  },
+  {
+    "objectID": "_4-home-page.html#customize-fonts-and-colors-optional",
+    "href": "_4-home-page.html#customize-fonts-and-colors-optional",
+    "title": "8  Your home page",
+    "section": "8.3 Customize fonts and colors (optional)",
+    "text": "8.3 Customize fonts and colors (optional)\nColors live in styles.css. Places to browse:\n\nGoogle Fonts\nFont Awesome icons\nHTML color picker",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Your home page</span>"
+    ]
+  },
+  {
+    "objectID": "_5-links.html",
+    "href": "_5-links.html",
+    "title": "9  Populating your links",
+    "section": "",
+    "text": "Due with HW2.\nFill in each link in index.html:\n\nGitHub: https://github.com/&lt;username&gt;\nCV: upload your PDF to the documents/ folder and link to it\nLinkedIn: your public profile URL\nKaggle: https://www.kaggle.com/&lt;username&gt;\nBlog: https://&lt;username&gt;.github.io/blog/ (see Chapter Chapter 12)",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Populating your links</span>"
+    ]
+  },
+  {
+    "objectID": "_6-news.html",
+    "href": "_6-news.html",
+    "title": "10  News and projects pages",
+    "section": "",
+    "text": "10.1 news.html\nDue with HW2.",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>News and projects pages</span>"
+    ]
+  },
+  {
+    "objectID": "_7-projects.html",
+    "href": "_7-projects.html",
+    "title": "11  projects.html",
+    "section": "",
+    "text": "Start an entry for each of these. You’ll keep adding to them all course long.\n\nA class project, with photos\nYour blog, with a photo\nYour capstone: a working title, a short description, and a link to your capstone repo\n\nComing later: your favorite plot as the capstone photo (Chapter 15), your slide deck link (Chapter 14), and DataTrail project entries (Chapter 15). If your capstone leads to a publication, link it here too.",
+    "crumbs": [
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>projects.html</span>"
+    ]
+  },
+  {
+    "objectID": "_8a-whyblog.html",
+    "href": "_8a-whyblog.html",
+    "title": "12  Setting up your blog",
+    "section": "",
+    "text": "12.1 Why blog?\nDue with HW2.\nYou might be wondering why a blog is valuable to you as a data scientist. Hopefully one of these convinces you it’s a fun and worthwhile outlet:",
+    "crumbs": [
+      "Blog Assignments",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Setting up your blog</span>"
+    ]
+  },
+  {
+    "objectID": "_8a-whyblog.html#why-blog",
+    "href": "_8a-whyblog.html#why-blog",
+    "title": "12  Setting up your blog",
+    "section": "",
+    "text": "5 Reasons Why Every Data Scientist Should Blog\nWhy Data Scientists Should Definitely Be Writing for Medium\nUnorthodox Reasons Why Data Scientists Should Start a Blog",
+    "crumbs": [
+      "Blog Assignments",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Setting up your blog</span>"
+    ]
+  },
+  {
+    "objectID": "_8a-whyblog.html#pick-a-template",
+    "href": "_8a-whyblog.html#pick-a-template",
+    "title": "12  Setting up your blog",
+    "section": "12.2 Pick a template",
+    "text": "12.2 Pick a template\nI’m using this template, but there are lots of great ones:\n\nFuwari\nAstroPaper\nAstroship\nFirefly\nChalk\nblog-template-gray\n\nSet it up in your blog repo by following the template’s README. Once it’s published, it lives at https://&lt;username&gt;.github.io/blog/.",
+    "crumbs": [
+      "Blog Assignments",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Setting up your blog</span>"
+    ]
+  },
+  {
+    "objectID": "_8a-whyblog.html#your-first-post",
+    "href": "_8a-whyblog.html#your-first-post",
+    "title": "12  Setting up your blog",
+    "section": "12.3 Your first post",
+    "text": "12.3 Your first post",
+    "crumbs": [
+      "Blog Assignments",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Setting up your blog</span>"
+    ]
+  },
+  {
+    "objectID": "_8a-whyblog.html#writing-tips",
+    "href": "_8a-whyblog.html#writing-tips",
+    "title": "12  Setting up your blog",
+    "section": "12.4 Writing tips",
+    "text": "12.4 Writing tips\n\nWriting an Academic Blog (Hamilton College)\nHow to Write for an Academic Blog (UACES)",
+    "crumbs": [
+      "Blog Assignments",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Setting up your blog</span>"
+    ]
+  },
+  {
+    "objectID": "_8b-blogassignments.html",
+    "href": "_8b-blogassignments.html",
+    "title": "13  Blog post #1: question, design, and data",
+    "section": "",
+    "text": "14 Blog post #2: cleaning your data\nDue with HW3. Capstone this week: notebook outline; figures outline.\nIntroduce your capstone:\nDue with HW4. Capstone this week: data cleaning notebook.",
+    "crumbs": [
+      "Blog Assignments",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Blog post #1: question, design, and data</span>"
+    ]
+  },
+  {
+    "objectID": "_8b-blogassignments.html#the-post",
+    "href": "_8b-blogassignments.html#the-post",
+    "title": "13  Blog post #1: question, design, and data",
+    "section": "15.1 The post",
+    "text": "15.1 The post\n\nShare your figures and what each one shows\nYour design choices: chart types, colors, labels",
+    "crumbs": [
+      "Blog Assignments",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Blog post #1: question, design, and data</span>"
+    ]
+  },
+  {
+    "objectID": "_8b-blogassignments.html#add-your-first-project-photo",
+    "href": "_8b-blogassignments.html#add-your-first-project-photo",
+    "title": "13  Blog post #1: question, design, and data",
+    "section": "15.2 Add your first project photo",
+    "text": "15.2 Add your first project photo\nSave your favorite plot so far as an image in your portfolio’s images/ folder, then add it as your capstone’s photo in projects.html.",
+    "crumbs": [
+      "Blog Assignments",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Blog post #1: question, design, and data</span>"
+    ]
+  },
+  {
+    "objectID": "_9-capstone-project.html",
+    "href": "_9-capstone-project.html",
+    "title": "14  Capstone entry: slide deck link",
+    "section": "",
+    "text": "Due with HW8. Capstone this week: work through your instructor feedback document.\nAdd a link to your slide deck in your capstone entry in projects.html. Check the sharing settings so anyone with the link can view it.",
+    "crumbs": [
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Capstone entry: slide deck link</span>"
+    ]
+  },
+  {
+    "objectID": "_10-further-customizing.html",
+    "href": "_10-further-customizing.html",
+    "title": "15  Finishing touches",
+    "section": "",
+    "text": "15.1 DataTrail project entries\nDue with HW9. Capstone this week: clean your README.\nAdd your DataTrail project(s) to projects.html, plus any additional photos for your other entries.",
+    "crumbs": [
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Finishing touches</span>"
+    ]
+  },
+  {
+    "objectID": "_10-further-customizing.html#add-a-favicon",
+    "href": "_10-further-customizing.html#add-a-favicon",
+    "title": "15  Finishing touches",
+    "section": "15.2 Add a favicon",
+    "text": "15.2 Add a favicon\nA favicon is the small icon in the browser tab. Save a square image to images/ and add this inside the &lt;head&gt; of index.html, news.html, and projects.html:\n&lt;link rel=\"icon\" type=\"image/png\" href=\"images/favicon.png\"&gt;",
+    "crumbs": [
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Finishing touches</span>"
+    ]
+  },
+  {
+    "objectID": "_10-further-customizing.html#keep-customizing",
+    "href": "_10-further-customizing.html#keep-customizing",
+    "title": "15  Finishing touches",
+    "section": "15.3 Keep customizing",
+    "text": "15.3 Keep customizing\nBrowse the font, icon, and color sites from Chapter @ref(home-page). For HTML, CSS, and JavaScript tutorials on features you’d like to add, I recommend Kevin Powell’s videos.",
+    "crumbs": [
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Finishing touches</span>"
     ]
   },
   {
