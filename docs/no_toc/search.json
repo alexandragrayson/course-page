@@ -4,19 +4,19 @@
     "href": "index.html",
     "title": "DataTrail Portfolio Course",
     "section": "",
-    "text": "Quarto Based OTTR Course\nThis course is part of a series of courses for the Informatics Technology for Cancer Research (ITCR) called the Informatics Technology for Cancer Research Education Resource. This material was created by the ITCR Training Network (ITN) which is a collaborative effort of researchers around the United States to support cancer informatics and data science training through resources, technology, and events. This initiative is funded by the following grant: National Cancer Institute (NCI) UE5 CA254170. Our courses feature tools developed by ITCR Investigators and make it easier for principal investigators, scientists, and analysts to integrate cancer informatics into their workflows. Please see our website at www.itcrtraining.org for more information.",
+    "text": "Start Here\nThis course website is a reference for students in the Code in the Schools DataTrail course. As you complete the course’s portfolio assignments, it is our hope that this will be a useful step-by-step guide to showcasing your work. This course will expand on some of the best practices for online data science professional portfolios.",
     "crumbs": [
-      "Quarto Based OTTR Course"
+      "Start Here"
     ]
   },
   {
-    "objectID": "index.html#available-course-formats",
-    "href": "index.html#available-course-formats",
+    "objectID": "index.html#sections-by-homework-assignment",
+    "href": "index.html#sections-by-homework-assignment",
     "title": "DataTrail Portfolio Course",
-    "section": "Available Course Formats",
-    "text": "Available Course Formats\nThis course is available in multiple formats which allows you to take it in the way that best suites your needs. You can take it for certificate which can be for free or fee.\n\nThe material for this course can be viewed without login requirement on this website. This format might be most appropriate for you if you rely on screen-reader technology.\nThis course can be taken for free certification through Leanpub.\nThis course can be taken on Coursera for certification here (but it is not available for free on Coursera).\nOur courses are open source, you can find the source material for this course on GitHub.",
+    "section": "Sections by Homework Assignment",
+    "text": "Sections by Homework Assignment\nFor DataTrail students following along with this site as a reference for the Homework Assignments, here are what sections match with your assignments’ chronology.\n\nHomework 1: Section 1, Section 2\nHomework 2: Sections 3 through 5\nHomework 3: Section 6, Sections 7 and 7.1\nHomework 4: Section 7.2\nHomework 5: Section 7.3, Section 6\nHomework 6: Section 7.4\nHomework 7: Section 7.5\nHomework 8: Section 6\nFinal Portfolio: Optional: Section 8",
     "crumbs": [
-      "Quarto Based OTTR Course"
+      "Start Here"
     ]
   },
   {
@@ -56,7 +56,7 @@
     "section": "",
     "text": "2.1 GitHub\nDue with HW1. Capstone this week: 5 whys and gap analysis; research question.\nMake three repositories:\nThen personalize your GitHub profile.",
     "crumbs": [
-      "Getting Started with Accounts and Repositories",
+      "2 Getting Started with Accounts and Repositories",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Accounts and repositories</span>"
     ]
   },
@@ -67,7 +67,7 @@
     "section": "",
     "text": "Portfolio: open the portfolio template, click Use this template → Create a new repository, and name it &lt;username&gt;.github.io using your exact GitHub username. Here’s what your site will look like.\nBlog: name it blog.\nCapstone: name it capstone for now.",
     "crumbs": [
-      "Getting Started with Accounts and Repositories",
+      "2 Getting Started with Accounts and Repositories",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Accounts and repositories</span>"
     ]
   },
@@ -78,7 +78,7 @@
     "section": "2.2 CV",
     "text": "2.2 CV\n\nCode in the Schools’ resume template\nSample resume for high school students, with a resume verb list",
     "crumbs": [
-      "Getting Started with Accounts and Repositories",
+      "2 Getting Started with Accounts and Repositories",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Accounts and repositories</span>"
     ]
   },
@@ -89,7 +89,7 @@
     "section": "2.3 LinkedIn",
     "text": "2.3 LinkedIn\n\nLinkedIn profile checklist\nLinkedIn profile tips for high school students\nFrom a former LinkedIn employee: I Worked at LinkedIn. Stop Making These Profile Mistakes and I Worked at LinkedIn. Here’s How to Fix Your Profile.",
     "crumbs": [
-      "Getting Started with Accounts and Repositories",
+      "2 Getting Started with Accounts and Repositories",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Accounts and repositories</span>"
     ]
   },
@@ -100,7 +100,7 @@
     "section": "2.4 Kaggle",
     "text": "2.4 Kaggle\nStart with The Beginner’s Guide to Kaggle. Some competitions to try:\n\nDigit Recognizer, an essential computer vision problem if that interests you\nTitanic: Machine Learning from Disaster\nSpaceship Titanic\nHouse Prices: Advanced Regression Techniques\nStore Sales: Time Series Forecasting\nContradictory, My Dear Watson\nNatural Language Processing with Disaster Tweets",
     "crumbs": [
-      "Getting Started with Accounts and Repositories",
+      "2 Getting Started with Accounts and Repositories",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Accounts and repositories</span>"
     ]
   },
@@ -111,7 +111,7 @@
     "section": "2.5 Headshot",
     "text": "2.5 Headshot",
     "crumbs": [
-      "Getting Started with Accounts and Repositories",
+      "2 Getting Started with Accounts and Repositories",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Accounts and repositories</span>"
     ]
   },
@@ -122,7 +122,7 @@
     "section": "2.6 Short bio",
     "text": "2.6 Short bio",
     "crumbs": [
-      "Getting Started with Accounts and Repositories",
+      "2 Getting Started with Accounts and Repositories",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Accounts and repositories</span>"
     ]
   },
@@ -133,7 +133,7 @@
     "section": "",
     "text": "Headshot",
     "crumbs": [
-      "Getting Started with Accounts and Repositories",
+      "2 Getting Started with Accounts and Repositories",
       "2.1 Headshot and 2.2 Bio"
     ]
   },
@@ -144,7 +144,7 @@
     "section": "Short bio",
     "text": "Short bio",
     "crumbs": [
-      "Getting Started with Accounts and Repositories",
+      "2 Getting Started with Accounts and Repositories",
       "2.1 Headshot and 2.2 Bio"
     ]
   },
@@ -155,7 +155,7 @@
     "section": "",
     "text": "Make three repositories:\n\nPortfolio: open the portfolio template, click Use this template → Create a new repository, and name it &lt;username&gt;.github.io using your exact GitHub username. Here’s what your site will look like.\nBlog: name it blog.\nCapstone: name it capstone for now.\n\nThen personalize your GitHub profile.",
     "crumbs": [
-      "Getting Started with Accounts and Repositories",
+      "2 Getting Started with Accounts and Repositories",
       "2.3 GitHub"
     ]
   },
@@ -166,7 +166,7 @@
     "section": "",
     "text": "Code in the Schools’ resume template\nSample resume for high school students, with a resume verb list",
     "crumbs": [
-      "Getting Started with Accounts and Repositories",
+      "2 Getting Started with Accounts and Repositories",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>CV</span>"
     ]
   },
@@ -177,7 +177,7 @@
     "section": "",
     "text": "LinkedIn profile checklist\nLinkedIn profile tips for high school students\nFrom a former LinkedIn employee: I Worked at LinkedIn. Stop Making These Profile Mistakes and I Worked at LinkedIn. Here’s How to Fix Your Profile.",
     "crumbs": [
-      "Getting Started with Accounts and Repositories",
+      "2 Getting Started with Accounts and Repositories",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>LinkedIn</span>"
     ]
   },
@@ -188,7 +188,7 @@
     "section": "",
     "text": "Start with The Beginner’s Guide to Kaggle. Some competitions to try:\n\nDigit Recognizer, an essential computer vision problem if that interests you\nTitanic: Machine Learning from Disaster\nSpaceship Titanic\nHouse Prices: Advanced Regression Techniques\nStore Sales: Time Series Forecasting\nContradictory, My Dear Watson\nNatural Language Processing with Disaster Tweets",
     "crumbs": [
-      "Getting Started with Accounts and Repositories",
+      "2 Getting Started with Accounts and Repositories",
       "2.6 Kaggle"
     ]
   },
@@ -247,7 +247,7 @@
     "href": "_7-projects.html",
     "title": "8  projects.html",
     "section": "",
-    "text": "Start an entry for each of these. You’ll keep adding to them all course long.\n\nA class project, with photos\nYour blog, with a photo\nYour capstone: a working title, a short description, and a link to your capstone repo\n\nComing later: your favorite plot as the capstone photo (Chapter 12), your slide deck link (Chapter 11), and DataTrail project entries (Chapter 12). If your capstone leads to a publication, link it here too.",
+    "text": "Start an entry for each of these. You’ll keep adding to them all course long.\n\nA class project, with photos\nYour blog, with a photo\nYour capstone: a working title, a short description, and a link to your capstone repo\n\nComing later: your favorite plot as the capstone photo (Chapter 12), your slide deck link (?sec-slide-deck), and DataTrail project entries (Chapter 11). If your capstone leads to a publication, link it here too.",
     "crumbs": [
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>projects.html</span>"
     ]
@@ -259,7 +259,7 @@
     "section": "",
     "text": "9.1 Why blog?\nDue with HW2.\nYou might be wondering why a blog is valuable to you as a data scientist. Hopefully one of these convinces you it’s a fun and worthwhile outlet:",
     "crumbs": [
-      "Blog Assignments",
+      "7 Blog Assignments",
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>Setting up your blog</span>"
     ]
   },
@@ -270,7 +270,7 @@
     "section": "",
     "text": "5 Reasons Why Every Data Scientist Should Blog\nWhy Data Scientists Should Definitely Be Writing for Medium\nUnorthodox Reasons Why Data Scientists Should Start a Blog",
     "crumbs": [
-      "Blog Assignments",
+      "7 Blog Assignments",
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>Setting up your blog</span>"
     ]
   },
@@ -281,7 +281,7 @@
     "section": "9.2 Pick a template",
     "text": "9.2 Pick a template\nI’m using this template, but there are lots of great ones:\n\nFuwari\nAstroPaper\nAstroship\nFirefly\nChalk\nblog-template-gray\n\nSet it up in your blog repo by following the template’s README. Once it’s published, it lives at https://&lt;username&gt;.github.io/blog/.",
     "crumbs": [
-      "Blog Assignments",
+      "7 Blog Assignments",
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>Setting up your blog</span>"
     ]
   },
@@ -292,7 +292,7 @@
     "section": "9.3 Your first post",
     "text": "9.3 Your first post",
     "crumbs": [
-      "Blog Assignments",
+      "7 Blog Assignments",
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>Setting up your blog</span>"
     ]
   },
@@ -303,7 +303,7 @@
     "section": "9.4 Writing tips",
     "text": "9.4 Writing tips\n\nWriting an Academic Blog (Hamilton College)\nHow to Write for an Academic Blog (UACES)",
     "crumbs": [
-      "Blog Assignments",
+      "7 Blog Assignments",
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>Setting up your blog</span>"
     ]
   },
@@ -314,7 +314,7 @@
     "section": "",
     "text": "11 Blog post #2: cleaning your data\nDue with HW3. Capstone this week: notebook outline; figures outline.\nIntroduce your capstone:\nDue with HW4. Capstone this week: data cleaning notebook.",
     "crumbs": [
-      "Blog Assignments",
+      "7 Blog Assignments",
       "<span class='chapter-number'>10</span>  <span class='chapter-title'>Blog post #1: question, design, and data</span>"
     ]
   },
@@ -325,7 +325,7 @@
     "section": "12.1 The post",
     "text": "12.1 The post\n\nShare your figures and what each one shows\nYour design choices: chart types, colors, labels",
     "crumbs": [
-      "Blog Assignments",
+      "7 Blog Assignments",
       "<span class='chapter-number'>10</span>  <span class='chapter-title'>Blog post #1: question, design, and data</span>"
     ]
   },
@@ -336,48 +336,38 @@
     "section": "12.2 Add your first project photo",
     "text": "12.2 Add your first project photo\nSave your favorite plot so far as an image in your portfolio’s images/ folder, then add it as your capstone’s photo in projects.html.",
     "crumbs": [
-      "Blog Assignments",
+      "7 Blog Assignments",
       "<span class='chapter-number'>10</span>  <span class='chapter-title'>Blog post #1: question, design, and data</span>"
-    ]
-  },
-  {
-    "objectID": "_9-capstone-project.html",
-    "href": "_9-capstone-project.html",
-    "title": "11  Capstone entry: slide deck link",
-    "section": "",
-    "text": "Due with HW8. Capstone this week: work through your instructor feedback document.\nAdd a link to your slide deck in your capstone entry in projects.html. Check the sharing settings so anyone with the link can view it.",
-    "crumbs": [
-      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Capstone entry: slide deck link</span>"
     ]
   },
   {
     "objectID": "_10-further-customizing.html",
     "href": "_10-further-customizing.html",
-    "title": "12  Finishing touches",
+    "title": "11  Finishing touches",
     "section": "",
-    "text": "12.1 DataTrail project entries\nDue with HW9. Capstone this week: clean your README.\nAdd your DataTrail project(s) to projects.html, plus any additional photos for your other entries.",
+    "text": "11.1 DataTrail project entries\nDue with HW9. Capstone this week: clean your README.\nAdd your DataTrail project(s) to projects.html, plus any additional photos for your other entries.",
     "crumbs": [
-      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Finishing touches</span>"
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Finishing touches</span>"
     ]
   },
   {
     "objectID": "_10-further-customizing.html#add-a-favicon",
     "href": "_10-further-customizing.html#add-a-favicon",
-    "title": "12  Finishing touches",
-    "section": "12.2 Add a favicon",
-    "text": "12.2 Add a favicon\nA favicon is the small icon in the browser tab. Save a square image to images/ and add this inside the &lt;head&gt; of index.html, news.html, and projects.html:\n&lt;link rel=\"icon\" type=\"image/png\" href=\"images/favicon.png\"&gt;",
+    "title": "11  Finishing touches",
+    "section": "11.2 Add a favicon",
+    "text": "11.2 Add a favicon\nA favicon is the small icon in the browser tab. Save a square image to images/ and add this inside the &lt;head&gt; of index.html, news.html, and projects.html:\n&lt;link rel=\"icon\" type=\"image/png\" href=\"images/favicon.png\"&gt;",
     "crumbs": [
-      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Finishing touches</span>"
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Finishing touches</span>"
     ]
   },
   {
     "objectID": "_10-further-customizing.html#keep-customizing",
     "href": "_10-further-customizing.html#keep-customizing",
-    "title": "12  Finishing touches",
-    "section": "12.3 Keep customizing",
-    "text": "12.3 Keep customizing\nBrowse the font, icon, and color sites from Chapter @ref(home-page). For HTML, CSS, and JavaScript tutorials on features you’d like to add, I recommend Kevin Powell’s videos.",
+    "title": "11  Finishing touches",
+    "section": "11.3 Keep customizing",
+    "text": "11.3 Keep customizing\nBrowse the font, icon, and color sites from Chapter @ref(home-page). For HTML, CSS, and JavaScript tutorials on features you’d like to add, I recommend Kevin Powell’s videos.",
     "crumbs": [
-      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Finishing touches</span>"
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Finishing touches</span>"
     ]
   },
   {
