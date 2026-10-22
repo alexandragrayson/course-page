@@ -1,4 +1,4 @@
-## Kaggle
+## 2.6 Kaggle {.unnumbered}
 
 Start with [The Beginner's Guide to Kaggle](https://www.kaggle.com/discussions/getting-started/134162). Some competitions to try:
 
