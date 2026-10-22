@@ -17,7 +17,7 @@ book:
   chapters:
     - index.qmd
     - intro.qmd
-    - part: "Getting Started with Accounts and Repositories"
+    - part: "2 Getting Started with Accounts and Repositories"
       chapters:
         - _3a-prerequisites.qmd
         - _3b-bio-and-headshot.qmd
@@ -29,11 +29,10 @@ book:
     - _5-links.qmd
     - _6-news.qmd
     - _7-projects.qmd
-    - part: "Blog Assignments"
+    - part: "7 Blog Assignments"
       chapters:
         - _8a-whyblog.qmd
         - _8b-blogassignments.qmd
-    - _9-capstone-project.qmd
     - _10-further-customizing.qmd
     - About.qmd
     - references.qmd
