@@ -1,0 +1,50 @@
+# Blog post #1: question, design, and data {#sec-post-1}
+
+*Due with HW3. Capstone this week: notebook outline; figures outline.*
+
+Introduce your capstone:
+
+- Your research question, and why it matters to you
+- Your project design: how you plan to answer it
+- Your data source(s): where the data comes from, and what it can and can't answer
+
+
+# Blog post #2: cleaning your data {#sec-post-2}
+
+*Due with HW4. Capstone this week: data cleaning notebook.*
+
+- Where you started and where you needed to end up
+- The cleaning decisions you made, and why
+- A before-and-after look at your data
+
+
+# Blog post #3: data visualization {#sec-post-3}
+
+*Due with HW5. Capstone this week: figures notebook with 3+ captioned figures.*
+
+## The post
+
+- Share your figures and what each one shows
+- Your design choices: chart types, colors, labels
+
+## Add your first project photo
+
+Save your favorite plot so far as an image in your portfolio's `images/` folder, then add it as your capstone's photo in projects.html.
+
+
+ 
+# Blog post #4: your 5 whys {#sec-post-4}
+
+*Due with HW6. Capstone this week: statistical inference code; additional visualizations.*
+
+Turn the 5 whys you wrote in HW1 into a post. How has your thinking about the problem changed since then?
+
+
+
+# Blog post #5: your results {#sec-post-5}
+
+*Due with HW7. Capstone this week: slide deck draft and practice run.*
+
+- What you found
+- How confident you are in it, and why
+- Limitations and next steps

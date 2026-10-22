@@ -1,0 +1,5 @@
+# Capstone entry: slide deck link {#sec-slide-deck}
+
+*Due with HW8. Capstone this week: work through your instructor feedback document.*
+
+Add a link to your slide deck in your capstone entry in projects.html. Check the sharing settings so anyone with the link can view it.

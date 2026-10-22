@@ -1,0 +1,19 @@
+# Your home page {#sec-home-page}
+
+*Due with HW2. Capstone this week: find and load your data; write a data dictionary.*
+
+## Publish your site
+
+In your portfolio repo, go to **Settings → Pages** and make sure it deploys from the `main` branch. Your site will be live at `https://<username>.github.io`.
+
+## Fill in index.html
+
+<!-- name, headshot (add it to images/), short bio, fonts -->
+
+## Customize fonts and colors (optional)
+
+Colors live in `styles.css`. Places to browse:
+
+- [Google Fonts](https://fonts.google.com/)
+- [Font Awesome icons](https://fontawesome.com/icons)
+- [HTML color picker](https://htmlcolorcodes.com/color-picker/)
