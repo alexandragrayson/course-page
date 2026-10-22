@@ -6,8 +6,8 @@ These credits are based on our [course contributors table guidelines](https://ww
 |---------|-------|
 | **Pedagogy** | |
 | Lead Content Instructor(s) | [Alexandra Grayson] |
-| **Production** | |
-| Content Publisher(s) | Alexandra Grayson |
+| **Production** | | 
+| Content Publisher(s) | [Alexandra Grayson] |
 | Template Publishing Engineers | [Candace Savonen], [Carrie Wright], [Ava Hoffman], [Kate Isaac], [Adam Coffman] |
 | Publishing Maintenance Engineer | [Candace Savonen] |
 | Technical Publishing Stylists | [Carrie Wright], [Ava Hoffman], [Candace Savonen], [Katherine Cox] |
