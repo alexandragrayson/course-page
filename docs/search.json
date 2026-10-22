@@ -108,236 +108,236 @@
   {
     "objectID": "_2a-headshot-and-2b-bio.html",
     "href": "_2a-headshot-and-2b-bio.html",
-    "title": "2.1 and 2.2 Headshot and Bio",
+    "title": "3  2.1 and 2.2 Headshot and Bio {.unnumbered}",
     "section": "",
-    "text": "Short bio",
+    "text": "3.1 Short bio",
     "crumbs": [
       "2 Getting Started with Accounts and Repositories",
-      "2.1 and 2.2 Headshot and Bio"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>2.1 and 2.2 Headshot and Bio {.unnumbered}</span>"
     ]
   },
   {
     "objectID": "_2c-github.html",
     "href": "_2c-github.html",
-    "title": "2.3 GitHub",
+    "title": "4  2.3 GitHub {.unnumbered}",
     "section": "",
     "text": "Personalize your GitHub profile.",
     "crumbs": [
       "2 Getting Started with Accounts and Repositories",
-      "2.3 GitHub"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>2.3 GitHub {.unnumbered}</span>"
     ]
   },
   {
     "objectID": "_2d-cv.html",
     "href": "_2d-cv.html",
-    "title": "2.4 CV",
+    "title": "5  2.4 CV {.unnumbered}",
     "section": "",
     "text": "Code in the Schools’ resume template\nSample resume for high school students, with a resume verb list",
     "crumbs": [
       "2 Getting Started with Accounts and Repositories",
-      "2.4 CV"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>2.4 CV {.unnumbered}</span>"
     ]
   },
   {
     "objectID": "_2e-linkedin.html",
     "href": "_2e-linkedin.html",
-    "title": "2.5 LinkedIn",
+    "title": "6  2.5 LinkedIn {.unnumbered}",
     "section": "",
     "text": "LinkedIn profile checklist\nLinkedIn profile tips for high school students\nFrom a former LinkedIn employee: I Worked at LinkedIn. Stop Making These Profile Mistakes and I Worked at LinkedIn. Here’s How to Fix Your Profile.",
     "crumbs": [
       "2 Getting Started with Accounts and Repositories",
-      "2.5 LinkedIn"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>2.5 LinkedIn {.unnumbered}</span>"
     ]
   },
   {
     "objectID": "_2f-kaggle.html",
     "href": "_2f-kaggle.html",
-    "title": "2.6 Kaggle",
+    "title": "7  2.6 Kaggle {.unnumbered}",
     "section": "",
     "text": "Start with The Beginner’s Guide to Kaggle. Some competitions to try:\n\nDigit Recognizer, an essential computer vision problem if that interests you\nTitanic: Machine Learning from Disaster\nSpaceship Titanic\nHouse Prices: Advanced Regression Techniques\nStore Sales: Time Series Forecasting\nContradictory, My Dear Watson\nNatural Language Processing with Disaster Tweets",
     "crumbs": [
       "2 Getting Started with Accounts and Repositories",
-      "2.6 Kaggle"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>2.6 Kaggle {.unnumbered}</span>"
     ]
   },
   {
     "objectID": "_3-home-page.html",
     "href": "_3-home-page.html",
-    "title": "3  Your home page",
+    "title": "8  Your home page",
     "section": "",
-    "text": "3.1 Fill in index.html\nLots of simple commits to make on your index.html and optional ones on your styles.css.",
+    "text": "8.1 Fill in index.html\nLots of simple commits to make on your index.html and optional ones on your styles.css.",
     "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Your home page</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Your home page</span>"
     ]
   },
   {
     "objectID": "_3-home-page.html#fill-in-index.html",
     "href": "_3-home-page.html#fill-in-index.html",
-    "title": "3  Your home page",
+    "title": "8  Your home page",
     "section": "",
     "text": "Where it says ‘DataTrail Student Name’, replace it with your name\nWhere it says ‘Data Science Student’, you can either keep this or replace this with another short tidbit about what you do/what your data science interests are\nYou’ll replace the social links here with your profile links you’ve created (Github, Linkedin, Kaggle).\nWhere it says name[at]school.edu, you’ll write your school email\nWhere it says name[at]codeintheschools.edu, you’ll write your Code in the Schools email address.\nYou’ll write your bio where the lorem ipsum boilerplate text is.\nRelevant Coursework: List your classes you’ve enjoyed or done particularly well in. Feel free to list your GPA or grades in these classes.\nExperience: If you have a job, school clubs, volunteer experiences, internships, programs you’ve participated in, or research assistantships you’ve done that you want to highlight – list them here!",
     "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Your home page</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Your home page</span>"
     ]
   },
   {
     "objectID": "_3-home-page.html#images-and-documents",
     "href": "_3-home-page.html#images-and-documents",
-    "title": "3  Your home page",
-    "section": "3.2 Images and documents",
-    "text": "3.2 Images and documents\n\nYou’ll upload your headshot to the images/ folder\nYou’ll also upload your CV (as a PDF) to the documents/ folder\nImportant! If the names of these documents are different than the template names (Sample_CV CiTS.pdf and my_headshot.jpeg), you will go into the index.html and change these relative path names to point to the name of your CV and/or your headshot instead.",
+    "title": "8  Your home page",
+    "section": "8.2 Images and documents",
+    "text": "8.2 Images and documents\n\nYou’ll upload your headshot to the images/ folder\nYou’ll also upload your CV (as a PDF) to the documents/ folder\nImportant! If the names of these documents are different than the template names (Sample_CV CiTS.pdf and my_headshot.jpeg), you will go into the index.html and change these relative path names to point to the name of your CV and/or your headshot instead.",
     "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Your home page</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Your home page</span>"
     ]
   },
   {
     "objectID": "_3-home-page.html#customize-fonts-and-colors-optional",
     "href": "_3-home-page.html#customize-fonts-and-colors-optional",
-    "title": "3  Your home page",
-    "section": "3.3 Customize fonts and colors (optional)",
-    "text": "3.3 Customize fonts and colors (optional)\nStill in index.html, there are some design updates you can make. Namely, to fonts and icons:\nRight now the font in here is ‘Manrope’. You can browse new fonts at this link: - Google Fonts To change this font, you’ll click ‘Get Font’ once you click on the font that you want. You can get the embed code for either ‘One value’ the one that is currently selected or the ‘Full axis’ (all of the weight options). I used and recommend two font weights, one bold and one not bold, but feel free to take creative liberty. Where it says ’Embed code in the\n\nof your html’, you’ll copy this code and replace the equivalent lines for the template fonts. If you have questions about this, feel free to ask your professor. You will also want to change this where the ‘font-family’ is defined for the .body section in the styles.css file And where ‘font-weight’ is defined for the h2 under your headshot, you will change it to one of the font weights that you downloaded.\nYou may notice there are icons next to your CV, and for your socials links. If you want to change these, add more, or just check out the other options, you can do so here: - Font Awesome icons Wherever you see: i class=… in your index.html, this is an icon. You can update these or add them where appropriate (perhaps in your projects.html links when we get there).\nIn styles.css, the color scheme for most of the site elements is set. The teal accent color in the template can be changed by changing the hex code listed next to –link-color. Here is a site to browse for new colors. You can also do this in several code editors, like VSCode. Feel free to ask your instructor for a quick tutorial on this: - HTML color picker",
+    "title": "8  Your home page",
+    "section": "8.3 Customize fonts and colors (optional)",
+    "text": "8.3 Customize fonts and colors (optional)\nStill in index.html, there are some design updates you can make. Namely, to fonts and icons:\nRight now the font in here is ‘Manrope’. You can browse new fonts at this link: - Google Fonts To change this font, you’ll click ‘Get Font’ once you click on the font that you want. You can get the embed code for either ‘One value’ the one that is currently selected or the ‘Full axis’ (all of the weight options). I used and recommend two font weights, one bold and one not bold, but feel free to take creative liberty. Where it says ’Embed code in the\n\nof your html’, you’ll copy this code and replace the equivalent lines for the template fonts. If you have questions about this, feel free to ask your professor. You will also want to change this where the ‘font-family’ is defined for the .body section in the styles.css file And where ‘font-weight’ is defined for the h2 under your headshot, you will change it to one of the font weights that you downloaded.\nYou may notice there are icons next to your CV, and for your socials links. If you want to change these, add more, or just check out the other options, you can do so here: - Font Awesome icons Wherever you see: i class=… in your index.html, this is an icon. You can update these or add them where appropriate (perhaps in your projects.html links when we get there).\nIn styles.css, the color scheme for most of the site elements is set. The teal accent color in the template can be changed by changing the hex code listed next to –link-color. Here is a site to browse for new colors. You can also do this in several code editors, like VSCode. Feel free to ask your instructor for a quick tutorial on this: - HTML color picker",
     "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Your home page</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Your home page</span>"
     ]
   },
   {
     "objectID": "_4-links.html",
     "href": "_4-links.html",
-    "title": "4  Populating your links",
+    "title": "9  Populating your links",
     "section": "",
-    "text": "Fill in each link in index.html:\n\nGitHub: https://github.com/&lt;username&gt;\nLinkedIn: your public profile URL\nKaggle: https://www.kaggle.com/&lt;username&gt;\nBlog: https://&lt;username&gt;.github.io/blog/ (see Chapter Chapter 7)",
+    "text": "Fill in each link in index.html:\n\nGitHub: https://github.com/&lt;username&gt;\nLinkedIn: your public profile URL\nKaggle: https://www.kaggle.com/&lt;username&gt;\nBlog: https://&lt;username&gt;.github.io/blog/ (see Chapter Chapter 12)",
     "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Populating your links</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Populating your links</span>"
     ]
   },
   {
     "objectID": "_5-news.html",
     "href": "_5-news.html",
-    "title": "5  news.html",
+    "title": "10  news.html",
     "section": "",
     "text": "Take a moment to think through recent academic and professional accomplishments You were accepted into DataTrail! Other things that count as news: 1. classes 2. grades and test scores 3. awards 4. events, conferences, and competitions you’ve attended or participated in 5. new blog posts\nWrite a list of these in your notes and pick your favorites. Note the date they happened and update the news.html file",
     "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>news.html</span>"
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>news.html</span>"
     ]
   },
   {
     "objectID": "_6-projects.html",
     "href": "_6-projects.html",
-    "title": "6  projects.html",
+    "title": "11  projects.html",
     "section": "",
     "text": "A project is an item that has a deliverable that you would like to showcase (i.e. a paper, code, a repository, a presentation, a model, a video, data visualizations).\nRight now the template project section has a card for:\n\nA class project - a project from class (it can be DataTrail or from school),\nYour blog, and\nYour DataTrail capstone project:\n\nWrite in your notes the name or title for at least one project that could be classified as each of these Draft a short description And compile any links to your project’s deliverables. If you don’t want to link to an external Drive or DropBox for example, you’ll want to download these and upload them to the docs folder in your portfolio’s repository. There can be some benefits to using these online storage platforms, as for many of them you can readily see traffic link clicks are getting.\nRight now, there are boilerplate photos in this section. In a later assignment, you’ll use your favorite plot as the capstone project photo.\nOther links will be styled here later in the course: your slide deck link (?sec-slide-deck), and DataTrail Python notebook results (Chapter 13). If your capstone leads to a publication or presentation, you can link to that here too.",
     "crumbs": [
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>projects.html</span>"
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>projects.html</span>"
     ]
   },
   {
     "objectID": "_7-whyblog.html",
     "href": "_7-whyblog.html",
-    "title": "7  7 Setting up your blog",
+    "title": "12  Setting up your blog",
     "section": "",
-    "text": "7.1 Why blog?\nYou might be wondering why a blog is valuable to you as a data scientist. Hopefully one of these convinces you it’s a fun and worthwhile outlet:",
+    "text": "12.1 Why blog?\nYou might be wondering why a blog is valuable to you as a data scientist. Hopefully one of these convinces you it’s a fun and worthwhile outlet:",
     "crumbs": [
       "7 Blog Assignments",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>7 Setting up your blog</span>"
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Setting up your blog</span>"
     ]
   },
   {
     "objectID": "_7-whyblog.html#why-blog",
     "href": "_7-whyblog.html#why-blog",
-    "title": "7  7 Setting up your blog",
+    "title": "12  Setting up your blog",
     "section": "",
     "text": "5 Reasons Why Every Data Scientist Should Blog\nWhy Data Scientists Should Definitely Be Writing for Medium\nUnorthodox Reasons Why Data Scientists Should Start a Blog",
     "crumbs": [
       "7 Blog Assignments",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>7 Setting up your blog</span>"
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Setting up your blog</span>"
     ]
   },
   {
     "objectID": "_7-whyblog.html#pick-a-template",
     "href": "_7-whyblog.html#pick-a-template",
-    "title": "7  7 Setting up your blog",
-    "section": "7.2 Pick a template",
-    "text": "7.2 Pick a template\nI’m using this template, and have a template in my github repository for your use but there are lots of great ones:\n\nFuwari\nAstroPaper\nAstroship\nFirefly\nChalk\nblog-template-gray\n\nSet it up in your blog repo by following the template’s README. It’ll be at the following link: https://&lt;username&gt;.github.io/blog/.\nYou’ll update the index.html NAVBAR section’s link to your blog from the current example.com to this link!",
+    "title": "12  Setting up your blog",
+    "section": "12.2 Pick a template",
+    "text": "12.2 Pick a template\nI’m using this template, and have a template in my github repository for your use but there are lots of great ones:\n\nFuwari\nAstroPaper\nAstroship\nFirefly\nChalk\nblog-template-gray\n\nSet it up in your blog repo by following the template’s README. It’ll be at the following link: https://&lt;username&gt;.github.io/blog/.\nYou’ll update the index.html NAVBAR section’s link to your blog from the current example.com to this link!",
     "crumbs": [
       "7 Blog Assignments",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>7 Setting up your blog</span>"
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Setting up your blog</span>"
     ]
   },
   {
     "objectID": "_7-whyblog.html#your-first-post",
     "href": "_7-whyblog.html#your-first-post",
-    "title": "7  7 Setting up your blog",
-    "section": "7.3 Your first post",
-    "text": "7.3 Your first post",
+    "title": "12  Setting up your blog",
+    "section": "12.3 Your first post",
+    "text": "12.3 Your first post",
     "crumbs": [
       "7 Blog Assignments",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>7 Setting up your blog</span>"
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Setting up your blog</span>"
     ]
   },
   {
     "objectID": "_7-whyblog.html#writing-tips",
     "href": "_7-whyblog.html#writing-tips",
-    "title": "7  7 Setting up your blog",
-    "section": "7.4 Writing tips",
-    "text": "7.4 Writing tips\n\nWriting an Academic Blog (Hamilton College)\nHow to Write for an Academic Blog (UACES)",
+    "title": "12  Setting up your blog",
+    "section": "12.4 Writing tips",
+    "text": "12.4 Writing tips\n\nWriting an Academic Blog (Hamilton College)\nHow to Write for an Academic Blog (UACES)",
     "crumbs": [
       "7 Blog Assignments",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>7 Setting up your blog</span>"
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Setting up your blog</span>"
     ]
   },
   {
     "objectID": "_7a-blog1.html",
     "href": "_7a-blog1.html",
-    "title": "8  Blog post #1",
+    "title": "7.1 Blog post #1",
     "section": "",
-    "text": "8.1 Blog post #1: question, design, and data\nMore details soon [11/6, when Homework 3 is assigned]",
+    "text": "Blog post #1: question, design, and data\nMore details soon [11/6, when Homework 3 is assigned]",
     "crumbs": [
       "7 Blog Assignments",
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Blog post #1</span>"
+      "7.1 Blog post #1"
     ]
   },
   {
     "objectID": "_7b-blog2.html",
     "href": "_7b-blog2.html",
-    "title": "9  Blog post #2",
+    "title": "7.2 Blog post #2",
     "section": "",
-    "text": "9.1 Blog post #2: cleaning decisions, start and end goals; before and after cleaning\nMore details soon [12/3, when Homework 4 is assigned]",
+    "text": "Blog post #2: cleaning decisions, start and end goals; before and after cleaning\nMore details soon [12/3, when Homework 4 is assigned]",
     "crumbs": [
       "7 Blog Assignments",
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Blog post #2</span>"
+      "7.2 Blog post #2"
     ]
   },
   {
     "objectID": "_7c-blog3.html",
     "href": "_7c-blog3.html",
-    "title": "10  Blog post #3",
+    "title": "7.3 Blog post #3",
     "section": "",
-    "text": "10.1 Blog post #3: data visualization\nMore details soon [12/10, when Homework 5 is assigned]",
+    "text": "Blog post #3: data visualization\nMore details soon [12/10, when Homework 5 is assigned]",
     "crumbs": [
       "7 Blog Assignments",
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Blog post #3</span>"
+      "7.3 Blog post #3"
     ]
   },
   {
     "objectID": "_7d-blog4.html",
     "href": "_7d-blog4.html",
-    "title": "11  Blog post #4",
+    "title": "7.4 Blog post #4",
     "section": "",
-    "text": "11.1 Blog post #4: your 5 whys\nMore details soon [12/17, when Homework 6 is assigned]",
+    "text": "Blog post #4: your 5 whys\nMore details soon [12/17, when Homework 6 is assigned]",
     "crumbs": [
       "7 Blog Assignments",
-      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Blog post #4</span>"
+      "7.4 Blog post #4"
     ]
   },
   {
     "objectID": "_7e-blog5.html",
     "href": "_7e-blog5.html",
-    "title": "12  Blog post #5",
+    "title": "7.5 Blog post #5",
     "section": "",
-    "text": "12.1 Blog post #5: your project results\nMore details soon [1/7, when Homework 7 is assigned]",
+    "text": "Blog post #5: your project results\nMore details soon [1/7, when Homework 7 is assigned]",
     "crumbs": [
       "7 Blog Assignments",
-      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Blog post #5</span>"
+      "7.5 Blog post #5"
     ]
   },
   {
