@@ -1,4 +1,4 @@
-## GitHub
+## 2.2 GitHub {.unnumbered}
 
 Make three repositories:
 
