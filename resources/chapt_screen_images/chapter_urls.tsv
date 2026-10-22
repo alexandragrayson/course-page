@@ -1,11 +1,9 @@
 chapt_title	data_level	url	img_path
 Introduction	1	https://alexandragrayson.github.io/portfolio-course-page/_1-intro.html	./resources/chapt_screen_images/_1-intro.png
 Accounts and repositories	2	https://alexandragrayson.github.io/portfolio-course-page/_2-prerequisites.html	./resources/chapt_screen_images/_2-prerequisites.png
-2.5 LinkedIn	3	https://alexandragrayson.github.io/portfolio-course-page/_2e-linkedin.html	./resources/chapt_screen_images/_2e-linkedin.png
-2.6 Kaggle	4	https://alexandragrayson.github.io/portfolio-course-page/_2f-kaggle.html	./resources/chapt_screen_images/_2f-kaggle.png
-Your home page	5	https://alexandragrayson.github.io/portfolio-course-page/_3-home-page.html	./resources/chapt_screen_images/_3-home-page.png
-Populating your links	6	https://alexandragrayson.github.io/portfolio-course-page/_4-links.html	./resources/chapt_screen_images/_4-links.png
-news.html	7	https://alexandragrayson.github.io/portfolio-course-page/_5-news.html	./resources/chapt_screen_images/_5-news.png
-projects.html	8	https://alexandragrayson.github.io/portfolio-course-page/_6-projects.html	./resources/chapt_screen_images/_6-projects.png
-Setting up your blog	9	https://alexandragrayson.github.io/portfolio-course-page/_7-whyblog.html	./resources/chapt_screen_images/_7-whyblog.png
-Finishing touches	10	https://alexandragrayson.github.io/portfolio-course-page/_8-further-customizing.html	./resources/chapt_screen_images/_8-further-customizing.png
+Your home page	3	https://alexandragrayson.github.io/portfolio-course-page/_3-home-page.html	./resources/chapt_screen_images/_3-home-page.png
+Populating your links	4	https://alexandragrayson.github.io/portfolio-course-page/_4-links.html	./resources/chapt_screen_images/_4-links.png
+news.html	5	https://alexandragrayson.github.io/portfolio-course-page/_5-news.html	./resources/chapt_screen_images/_5-news.png
+projects.html	6	https://alexandragrayson.github.io/portfolio-course-page/_6-projects.html	./resources/chapt_screen_images/_6-projects.png
+Setting up your blog	7	https://alexandragrayson.github.io/portfolio-course-page/_7-whyblog.html	./resources/chapt_screen_images/_7-whyblog.png
+Finishing touches	8	https://alexandragrayson.github.io/portfolio-course-page/_8-further-customizing.html	./resources/chapt_screen_images/_8-further-customizing.png
