@@ -184,200 +184,200 @@
   {
     "objectID": "_3f-kaggle.html",
     "href": "_3f-kaggle.html",
-    "title": "5  Kaggle",
+    "title": "2.6 Kaggle",
     "section": "",
     "text": "Start with The Beginner’s Guide to Kaggle. Some competitions to try:\n\nDigit Recognizer, an essential computer vision problem if that interests you\nTitanic: Machine Learning from Disaster\nSpaceship Titanic\nHouse Prices: Advanced Regression Techniques\nStore Sales: Time Series Forecasting\nContradictory, My Dear Watson\nNatural Language Processing with Disaster Tweets",
     "crumbs": [
       "Getting Started with Accounts and Repositories",
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Kaggle</span>"
+      "2.6 Kaggle"
     ]
   },
   {
     "objectID": "_4-home-page.html",
     "href": "_4-home-page.html",
-    "title": "6  Your home page",
+    "title": "5  Your home page",
     "section": "",
-    "text": "6.1 Publish your site\nDue with HW2. Capstone this week: find and load your data; write a data dictionary.\nIn your portfolio repo, go to Settings → Pages and make sure it deploys from the main branch. Your site will be live at https://&lt;username&gt;.github.io.",
+    "text": "5.1 Publish your site\nDue with HW2. Capstone this week: find and load your data; write a data dictionary.\nIn your portfolio repo, go to Settings → Pages and make sure it deploys from the main branch. Your site will be live at https://&lt;username&gt;.github.io.",
     "crumbs": [
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Your home page</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Your home page</span>"
     ]
   },
   {
     "objectID": "_4-home-page.html#fill-in-index.html",
     "href": "_4-home-page.html#fill-in-index.html",
-    "title": "6  Your home page",
-    "section": "6.2 Fill in index.html",
-    "text": "6.2 Fill in index.html",
+    "title": "5  Your home page",
+    "section": "5.2 Fill in index.html",
+    "text": "5.2 Fill in index.html",
     "crumbs": [
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Your home page</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Your home page</span>"
     ]
   },
   {
     "objectID": "_4-home-page.html#customize-fonts-and-colors-optional",
     "href": "_4-home-page.html#customize-fonts-and-colors-optional",
-    "title": "6  Your home page",
-    "section": "6.3 Customize fonts and colors (optional)",
-    "text": "6.3 Customize fonts and colors (optional)\nColors live in styles.css. Places to browse:\n\nGoogle Fonts\nFont Awesome icons\nHTML color picker",
+    "title": "5  Your home page",
+    "section": "5.3 Customize fonts and colors (optional)",
+    "text": "5.3 Customize fonts and colors (optional)\nColors live in styles.css. Places to browse:\n\nGoogle Fonts\nFont Awesome icons\nHTML color picker",
     "crumbs": [
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Your home page</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Your home page</span>"
     ]
   },
   {
     "objectID": "_5-links.html",
     "href": "_5-links.html",
-    "title": "7  Populating your links",
+    "title": "6  Populating your links",
     "section": "",
-    "text": "Due with HW2.\nFill in each link in index.html:\n\nGitHub: https://github.com/&lt;username&gt;\nCV: upload your PDF to the documents/ folder and link to it\nLinkedIn: your public profile URL\nKaggle: https://www.kaggle.com/&lt;username&gt;\nBlog: https://&lt;username&gt;.github.io/blog/ (see Chapter Chapter 10)",
+    "text": "Due with HW2.\nFill in each link in index.html:\n\nGitHub: https://github.com/&lt;username&gt;\nCV: upload your PDF to the documents/ folder and link to it\nLinkedIn: your public profile URL\nKaggle: https://www.kaggle.com/&lt;username&gt;\nBlog: https://&lt;username&gt;.github.io/blog/ (see Chapter Chapter 9)",
     "crumbs": [
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Populating your links</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Populating your links</span>"
     ]
   },
   {
     "objectID": "_6-news.html",
     "href": "_6-news.html",
-    "title": "8  News and projects pages",
+    "title": "7  News and projects pages",
     "section": "",
-    "text": "8.1 news.html\nDue with HW2.",
+    "text": "7.1 news.html\nDue with HW2.",
     "crumbs": [
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>News and projects pages</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>News and projects pages</span>"
     ]
   },
   {
     "objectID": "_7-projects.html",
     "href": "_7-projects.html",
-    "title": "9  projects.html",
+    "title": "8  projects.html",
     "section": "",
-    "text": "Start an entry for each of these. You’ll keep adding to them all course long.\n\nA class project, with photos\nYour blog, with a photo\nYour capstone: a working title, a short description, and a link to your capstone repo\n\nComing later: your favorite plot as the capstone photo (Chapter 13), your slide deck link (Chapter 12), and DataTrail project entries (Chapter 13). If your capstone leads to a publication, link it here too.",
+    "text": "Start an entry for each of these. You’ll keep adding to them all course long.\n\nA class project, with photos\nYour blog, with a photo\nYour capstone: a working title, a short description, and a link to your capstone repo\n\nComing later: your favorite plot as the capstone photo (Chapter 12), your slide deck link (Chapter 11), and DataTrail project entries (Chapter 12). If your capstone leads to a publication, link it here too.",
     "crumbs": [
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>projects.html</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>projects.html</span>"
     ]
   },
   {
     "objectID": "_8a-whyblog.html",
     "href": "_8a-whyblog.html",
-    "title": "10  Setting up your blog",
+    "title": "9  Setting up your blog",
     "section": "",
-    "text": "10.1 Why blog?\nDue with HW2.\nYou might be wondering why a blog is valuable to you as a data scientist. Hopefully one of these convinces you it’s a fun and worthwhile outlet:",
+    "text": "9.1 Why blog?\nDue with HW2.\nYou might be wondering why a blog is valuable to you as a data scientist. Hopefully one of these convinces you it’s a fun and worthwhile outlet:",
     "crumbs": [
       "Blog Assignments",
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Setting up your blog</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Setting up your blog</span>"
     ]
   },
   {
     "objectID": "_8a-whyblog.html#why-blog",
     "href": "_8a-whyblog.html#why-blog",
-    "title": "10  Setting up your blog",
+    "title": "9  Setting up your blog",
     "section": "",
     "text": "5 Reasons Why Every Data Scientist Should Blog\nWhy Data Scientists Should Definitely Be Writing for Medium\nUnorthodox Reasons Why Data Scientists Should Start a Blog",
     "crumbs": [
       "Blog Assignments",
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Setting up your blog</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Setting up your blog</span>"
     ]
   },
   {
     "objectID": "_8a-whyblog.html#pick-a-template",
     "href": "_8a-whyblog.html#pick-a-template",
-    "title": "10  Setting up your blog",
-    "section": "10.2 Pick a template",
-    "text": "10.2 Pick a template\nI’m using this template, but there are lots of great ones:\n\nFuwari\nAstroPaper\nAstroship\nFirefly\nChalk\nblog-template-gray\n\nSet it up in your blog repo by following the template’s README. Once it’s published, it lives at https://&lt;username&gt;.github.io/blog/.",
+    "title": "9  Setting up your blog",
+    "section": "9.2 Pick a template",
+    "text": "9.2 Pick a template\nI’m using this template, but there are lots of great ones:\n\nFuwari\nAstroPaper\nAstroship\nFirefly\nChalk\nblog-template-gray\n\nSet it up in your blog repo by following the template’s README. Once it’s published, it lives at https://&lt;username&gt;.github.io/blog/.",
     "crumbs": [
       "Blog Assignments",
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Setting up your blog</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Setting up your blog</span>"
     ]
   },
   {
     "objectID": "_8a-whyblog.html#your-first-post",
     "href": "_8a-whyblog.html#your-first-post",
-    "title": "10  Setting up your blog",
-    "section": "10.3 Your first post",
-    "text": "10.3 Your first post",
+    "title": "9  Setting up your blog",
+    "section": "9.3 Your first post",
+    "text": "9.3 Your first post",
     "crumbs": [
       "Blog Assignments",
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Setting up your blog</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Setting up your blog</span>"
     ]
   },
   {
     "objectID": "_8a-whyblog.html#writing-tips",
     "href": "_8a-whyblog.html#writing-tips",
-    "title": "10  Setting up your blog",
-    "section": "10.4 Writing tips",
-    "text": "10.4 Writing tips\n\nWriting an Academic Blog (Hamilton College)\nHow to Write for an Academic Blog (UACES)",
+    "title": "9  Setting up your blog",
+    "section": "9.4 Writing tips",
+    "text": "9.4 Writing tips\n\nWriting an Academic Blog (Hamilton College)\nHow to Write for an Academic Blog (UACES)",
     "crumbs": [
       "Blog Assignments",
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Setting up your blog</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Setting up your blog</span>"
     ]
   },
   {
     "objectID": "_8b-blogassignments.html",
     "href": "_8b-blogassignments.html",
-    "title": "11  Blog post #1: question, design, and data",
+    "title": "10  Blog post #1: question, design, and data",
     "section": "",
-    "text": "12 Blog post #2: cleaning your data\nDue with HW3. Capstone this week: notebook outline; figures outline.\nIntroduce your capstone:\nDue with HW4. Capstone this week: data cleaning notebook.",
+    "text": "11 Blog post #2: cleaning your data\nDue with HW3. Capstone this week: notebook outline; figures outline.\nIntroduce your capstone:\nDue with HW4. Capstone this week: data cleaning notebook.",
     "crumbs": [
       "Blog Assignments",
-      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Blog post #1: question, design, and data</span>"
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Blog post #1: question, design, and data</span>"
     ]
   },
   {
     "objectID": "_8b-blogassignments.html#the-post",
     "href": "_8b-blogassignments.html#the-post",
-    "title": "11  Blog post #1: question, design, and data",
-    "section": "13.1 The post",
-    "text": "13.1 The post\n\nShare your figures and what each one shows\nYour design choices: chart types, colors, labels",
+    "title": "10  Blog post #1: question, design, and data",
+    "section": "12.1 The post",
+    "text": "12.1 The post\n\nShare your figures and what each one shows\nYour design choices: chart types, colors, labels",
     "crumbs": [
       "Blog Assignments",
-      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Blog post #1: question, design, and data</span>"
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Blog post #1: question, design, and data</span>"
     ]
   },
   {
     "objectID": "_8b-blogassignments.html#add-your-first-project-photo",
     "href": "_8b-blogassignments.html#add-your-first-project-photo",
-    "title": "11  Blog post #1: question, design, and data",
-    "section": "13.2 Add your first project photo",
-    "text": "13.2 Add your first project photo\nSave your favorite plot so far as an image in your portfolio’s images/ folder, then add it as your capstone’s photo in projects.html.",
+    "title": "10  Blog post #1: question, design, and data",
+    "section": "12.2 Add your first project photo",
+    "text": "12.2 Add your first project photo\nSave your favorite plot so far as an image in your portfolio’s images/ folder, then add it as your capstone’s photo in projects.html.",
     "crumbs": [
       "Blog Assignments",
-      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Blog post #1: question, design, and data</span>"
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Blog post #1: question, design, and data</span>"
     ]
   },
   {
     "objectID": "_9-capstone-project.html",
     "href": "_9-capstone-project.html",
-    "title": "12  Capstone entry: slide deck link",
+    "title": "11  Capstone entry: slide deck link",
     "section": "",
     "text": "Due with HW8. Capstone this week: work through your instructor feedback document.\nAdd a link to your slide deck in your capstone entry in projects.html. Check the sharing settings so anyone with the link can view it.",
     "crumbs": [
-      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Capstone entry: slide deck link</span>"
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Capstone entry: slide deck link</span>"
     ]
   },
   {
     "objectID": "_10-further-customizing.html",
     "href": "_10-further-customizing.html",
-    "title": "13  Finishing touches",
+    "title": "12  Finishing touches",
     "section": "",
-    "text": "13.1 DataTrail project entries\nDue with HW9. Capstone this week: clean your README.\nAdd your DataTrail project(s) to projects.html, plus any additional photos for your other entries.",
+    "text": "12.1 DataTrail project entries\nDue with HW9. Capstone this week: clean your README.\nAdd your DataTrail project(s) to projects.html, plus any additional photos for your other entries.",
     "crumbs": [
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Finishing touches</span>"
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Finishing touches</span>"
     ]
   },
   {
     "objectID": "_10-further-customizing.html#add-a-favicon",
     "href": "_10-further-customizing.html#add-a-favicon",
-    "title": "13  Finishing touches",
-    "section": "13.2 Add a favicon",
-    "text": "13.2 Add a favicon\nA favicon is the small icon in the browser tab. Save a square image to images/ and add this inside the &lt;head&gt; of index.html, news.html, and projects.html:\n&lt;link rel=\"icon\" type=\"image/png\" href=\"images/favicon.png\"&gt;",
+    "title": "12  Finishing touches",
+    "section": "12.2 Add a favicon",
+    "text": "12.2 Add a favicon\nA favicon is the small icon in the browser tab. Save a square image to images/ and add this inside the &lt;head&gt; of index.html, news.html, and projects.html:\n&lt;link rel=\"icon\" type=\"image/png\" href=\"images/favicon.png\"&gt;",
     "crumbs": [
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Finishing touches</span>"
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Finishing touches</span>"
     ]
   },
   {
     "objectID": "_10-further-customizing.html#keep-customizing",
     "href": "_10-further-customizing.html#keep-customizing",
-    "title": "13  Finishing touches",
-    "section": "13.3 Keep customizing",
-    "text": "13.3 Keep customizing\nBrowse the font, icon, and color sites from Chapter @ref(home-page). For HTML, CSS, and JavaScript tutorials on features you’d like to add, I recommend Kevin Powell’s videos.",
+    "title": "12  Finishing touches",
+    "section": "12.3 Keep customizing",
+    "text": "12.3 Keep customizing\nBrowse the font, icon, and color sites from Chapter @ref(home-page). For HTML, CSS, and JavaScript tutorials on features you’d like to add, I recommend Kevin Powell’s videos.",
     "crumbs": [
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Finishing touches</span>"
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Finishing touches</span>"
     ]
   },
   {
