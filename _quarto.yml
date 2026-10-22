@@ -19,22 +19,22 @@ book:
     - intro.qmd
     - part: "Getting Started with Accounts and Repositories"
       chapters:
-        - prerequisites.qmd
-        - bio-and-headshot.qmd
-        - github.qmd
-        - cv.qmd
-        - linkedin.qmd
-        - kaggle.qmd
-    - home-page.qmd
-    - links.qmd
-    - news.qmd
-    - projects.qmd
+        - _3a-prerequisites.qmd
+        - _3b-bio-and-headshot.qmd
+        - _3c-github.qmd
+        - _3d-cv.qmd
+        - _3e-linkedin.qmd
+        - _3f-kaggle.qmd
+    - _4-home-page.qmd
+    - _5-links.qmd
+    - _6-news.qmd
+    - _7-projects.qmd
     - part: "Blog Assignments"
       chapters:
-        - whyblog.qmd
-        - blogassignments.qmd
-    - capstone-project.Rmd
-    - further-customizing.Rmd
+        - _8a-whyblog.qmd
+        - _8b-blogassignments.qmd
+    - _9-capstone-project.qmd
+    - _10-further-customizing.qmd
     - About.qmd
     - references.qmd
   
