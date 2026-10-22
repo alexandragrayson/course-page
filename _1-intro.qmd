@@ -1,10 +1,10 @@
 # Introduction
 
 ## Why create a portfolio
-A portfolio has many benefits, here are just a few:
-1. Helping with reflecting on your professional experiences and setting goals for the future
-2. An easy visual resume with links to tangible work that's quite difficult to find and understand on a static CV or resume. It shows evidence of you using the skills that many without portfolios may only have listed on a resume!
-3. Shows your self-starter spirit, which boosts competitiveness for internships, jobs, and college.
+A portfolio has many benefits, here are just a few: <br>
+1. Helping with reflecting on your professional experiences and setting goals for the future  <br>
+2. An easy visual resume with links to tangible work that's quite difficult to find and understand on a static CV or resume. It shows evidence of you using the skills that many without portfolios may only have listed on a resume! <br>
+3. Shows your self-starter spirit, which boosts competitiveness for internships, jobs, and college. <br>
 4. Helps people find you, including future collaborators, colleagues, and mentors/mentees.
 
 References: [MIT Career Advising & Professional Development Office](https://capd.mit.edu/benefit-of-portfolios/)
@@ -16,16 +16,15 @@ Before we get started, first you'll need a portfolio website to work from. We'll
 You should be logged into your GitHub account with the username <firstnamelastname> if available. If not available, it should be the closest variant, like <firstnamelastinitial>, <firstmiddlelastname>, or <firstnamemiddleinitiallastname>.
 If you want to change your GitHub account name, instructions for how to do so can be found in the GitHub section of this course [here](_3c-github.qmd).
 
-The template portfolio website for DataTrail students can be found at the following GitHub repository: [portfolio template](https://github.com/alexandragrayson/datatrail-portfolio-template). Once you've navigated to this repo,
-1. Click **Use this template**
-
+The template portfolio website for DataTrail students can be found at the following GitHub repository: [portfolio template](https://github.com/alexandragrayson/datatrail-portfolio-template). Once you've navigated to this repo, <br>
+1. Click **Use this template** <br>
 2. Then **Create a new repository**, and name it `<username>.github.io` using your exact GitHub username.
 
 Here's [what your site will look like](https://alexandragrayson.github.io/datatrail-portfolio-template/).
 
 
-You'll need to make two additional GitHub repositories for Homework 1, so let's make those now. You'll use the 'Create Repository' button:
-2. **Blog:** name it `blog`.
-3. **Capstone:**, you can name this repo your project name, but `datatrail26-capstone` is fine for now if you don't have this in mind yet.
+You'll need to make two additional GitHub repositories for Homework 1, so let's make those now. You'll use the 'Create Repository' button: <br>
+2. **Blog:** name it `blog`. <br>
+3. **Capstone:**, you can name this repo your project name, but `datatrail26-capstone` is fine for now if you don't have this in mind yet. <br>
 
 The starter site was created using HTML, CSS, and JS. We'll get more into what these languages are, resources for how you can customize your site beyond what's outlined in the majority of this guide in [Section 8](_10-further-customization.qmd). For now, let's proceed to the portfolio prerequisites outlined in Section 2.
