@@ -1,0 +1,9 @@
+## GitHub
+
+Make three repositories:
+
+1. **Portfolio:** open the [portfolio template](https://github.com/alexandragrayson/datatrail-portfolio-template), click **Use this template → Create a new repository**, and name it `<username>.github.io` using your exact GitHub username. Here's [what your site will look like](https://alexandragrayson.github.io/datatrail-portfolio-template/).
+2. **Blog:** name it `blog`.
+3. **Capstone:** name it `capstone` for now.
+
+Then [personalize your GitHub profile](https://docs.github.com/en/account-and-profile/tutorials/personalize-your-profile).
