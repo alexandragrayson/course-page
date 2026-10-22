@@ -1,4 +1,4 @@
-## 2.1 and 2.2 Headshot and Bio {.unnumbered} {#sec-headshot}
+## 2.1 and 2.2 Headshot and Bio {#sec-headshot .unnumbered}
 
 <!-- tips: plain background, good light, shoulders up -->
 
