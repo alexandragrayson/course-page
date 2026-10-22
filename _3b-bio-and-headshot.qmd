@@ -1,3 +1,5 @@
+# 2.1 Headshot and 2.2 Bio {.unnumbered}
+
 ## Headshot
 
 <!-- tips: plain background, good light, shoulders up -->
