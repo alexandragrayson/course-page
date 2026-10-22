@@ -16,24 +16,28 @@ book:
   
   chapters:
     - index.qmd
-    - intro.qmd
+    - _1-intro.qmd
     - part: "2 Getting Started with Accounts and Repositories"
       chapters:
-        - _3a-prerequisites.qmd
-        - _3b-bio-and-headshot.qmd
-        - _3c-github.qmd
-        - _3d-cv.qmd
-        - _3e-linkedin.qmd
-        - _3f-kaggle.qmd
-    - _4-home-page.qmd
-    - _5-links.qmd
-    - _6-news.qmd
-    - _7-projects.qmd
+        - _2-prerequisites.qmd
+        - _2a-headshot-and-2b-bio.qmd
+        - _2c-github.qmd
+        - _2d-cv.qmd
+        - _2e-linkedin.qmd
+        - _2f-kaggle.qmd
+    - _3-home-page.qmd
+    - _4-links.qmd
+    - _5-news.qmd
+    - _6-projects.qmd
     - part: "7 Blog Assignments"
       chapters:
-        - _8a-whyblog.qmd
-        - _8b-blogassignments.qmd
-    - _10-further-customizing.qmd
+        - _7-whyblog.qmd
+        - _7a-blog1.qmd
+        - _7b-blog2.qmd
+        - _7c-blog3.qmd
+        - _7d-blog4.qmd
+        - _7e-blog5.qmd
+    - _8-further-customizing.qmd
     - About.qmd
     - references.qmd
   
