@@ -3,13 +3,13 @@ project:
   output-dir: docs
 
 book:
-  title: Quarto Based OTTR Course
-  favicon: img/favicon.ico
+  title: DataTrail Portfolio Course
+  favicon: img/CITS+logo+png.ico
   bread-crumbs: false
 
   page-navigation: true
   search: true
-  repo-url: https://github.com/ottrproject/OTTR_Quarto
+  repo-url: https://github.com/alexandragrayson/course-page/edit/main/_quarto.yml
   repo-actions: [edit] 
   issue-url: https://docs.google.com/forms/d/e/1FAIpQLSfBvVELBg8lcynKj0TrzMlov1zil-Sbkh9VhMKRcSpeo1xo6g/viewform
   google-analytics: "G-XXXXXXXXXX"
@@ -17,16 +17,30 @@ book:
   chapters:
     - index.qmd
     - intro.qmd
-    - part: "First Section"
+    - part: "Getting Started with Accounts and Repositories"
       chapters:
-        - first-section-new-chapter.qmd
-    - conclusion.qmd
+        - prerequisites.qmd
+        - bio-and-headshot.qmd
+        - github.qmd
+        - cv.qmd
+        - linkedin.qmd
+        - kaggle.qmd
+    - home-page.qmd
+    - links.qmd
+    - news.qmd
+    - projects.qmd
+    - part: "Blog Assignments"
+      chapters:
+        - whyblog.qmd
+        - blogassignments.qmd
+    - capstone-project.Rmd
+    - further-customizing.Rmd
     - About.qmd
     - references.qmd
   
   sidebar: 
     logo: "img/logo.png"
-    logo-href: "https://ottrproject.org/"
+    logo-href: "https://www.codeintheschools.org/datatrail"
     foreground: "#1B365D"
   
   page-footer:
