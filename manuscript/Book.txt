@@ -1,8 +1,0 @@
-Introduction.md
-Accounts-and-repositories.md
-Your-home-page.md
-Populating-your-links.md
-news.html.md
-projects.html.md
-Setting-up-your-blog.md
-Finishing-touches.md
