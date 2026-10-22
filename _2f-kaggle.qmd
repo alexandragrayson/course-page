@@ -1,4 +1,4 @@
-## 2.6 Kaggle {sec-kaggle .unnumbered}
+## 2.6 Kaggle {#sec-kaggle .unnumbered}
 
 Start with [The Beginner's Guide to Kaggle](https://www.kaggle.com/discussions/getting-started/134162). Some competitions to try:
 
