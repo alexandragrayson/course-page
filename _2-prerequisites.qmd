@@ -1,0 +1,41 @@
+# Accounts and repositories {#sec-accounts}
+
+Your portfolio can be a place where you show not only your data science projects, but also where people can learn where else to reach you and keep up with your work.
+
+Here are a few key social links to keep on your portfolio website, and prerequisites that will be useful for all of these accounts (your headshot and bio):
+
+## Headshot
+
+Your headshot is a photo of you for a professional audience!
+
+Jump to [2.1 and 2.2 Headshot and Bio](_3b-bio-and-headshot.qmd)
+
+## Short bio
+
+Your bio is a description of who you are, your interests, accolades, and experience. The length will vary depending on the context. The tips in this guide will be tailored for these online platforms.
+
+Jump to [2.1 and 2.2 Headshot and Bio](_3b-bio-and-headshot.qmd)
+
+## GitHub
+
+We're using GitHub a ton in our DataTrail class. As you continue to work on data science projects, your GitHub profile can be a great artifact of your work.
+
+Jump to [2.3 GitHub](_3c-github.qmd)
+
+## CV
+
+Your curriculum vitae, or CV, will be very similar to the familiar resume. It is allowed to be longer (some senior professionals have high double-digit CVs...) and document a fuller history of your academic, research, and professional accomplishments.
+
+Jump to [2.4 CV](_3d-cv.qmd)
+
+## LinkedIn
+
+LinkedIn is a professional social media network. Your profile has sections for specific types of professional accomplishments. You'll use LinkedIn to connect with other professionals.
+
+Jump to [2.5 LinkedIn](_3e-linkedin.qmd)
+
+## Kaggle
+
+Kaggle is a data science website that hosts datasets and competitions. You'll soon be acclimated with Kaggle via DataTrail competitions!
+
+Jump to [2.6 Kaggle](_3f-kaggle.qmd)

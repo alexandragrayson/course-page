@@ -1,0 +1,5 @@
+## 2.4 CV {.unnumbered}
+
+- [Code in the Schools' resume template](https://github.com/alexandragrayson/datatrail-portfolio-template/tree/main/documents)
+- [Sample resume for high school students](https://www.mass.edu/gearup/documents/writingaresume.pdf), with a resume verb list
+

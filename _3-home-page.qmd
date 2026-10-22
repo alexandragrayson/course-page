@@ -1,0 +1,37 @@
+# Your home page {#sec-home-page}
+
+Lots of simple commits to make on your index.html and optional ones on your styles.css.
+
+## Fill in index.html
+
+1. Where it says 'DataTrail Student Name', replace it with your name
+2. Where it says 'Data Science Student', you can either keep this or replace this with another short tidbit about what you do/what your data science interests are
+3. You'll replace the social links here with your profile links you've created (Github, Linkedin, Kaggle).
+4. Where it says name[at]school.edu, you'll write your school email
+5. Where it says name[at]codeintheschools.edu, you'll write your Code in the Schools email address.
+6. You'll write your bio where the lorem ipsum boilerplate text is.
+7. Relevant Coursework: List your classes you've enjoyed or done particularly well in. Feel free to list your GPA or grades in these classes.
+8. Experience: If you have a job, school clubs, volunteer experiences, internships, programs you've participated in, or research assistantships you've done that you want to highlight -- list them here!
+
+## Images and documents
+1. You'll upload your headshot to the images/ folder
+2. You'll also upload your CV (as a PDF) to the documents/ folder
+3. Important! If the names of these documents are different than the template names (Sample_CV CiTS.pdf and my_headshot.jpeg), you will go into the index.html and change these relative path names to point to the name of your CV and/or your headshot instead.
+
+
+## Customize fonts and colors (optional)
+Still in index.html, there are some design updates you can make. Namely, to fonts and icons:
+
+Right now the font in here is 'Manrope'. You can browse new fonts at this link:
+- [Google Fonts](https://fonts.google.com/)
+To change this font, you'll click 'Get Font' once you click on the font that you want. You can get the embed code for either 'One value' the one that is currently selected or the 'Full axis' (all of the weight options). I used and recommend two font weights, one bold and one not bold, but feel free to take creative liberty.
+Where it says 'Embed code in the <head> of your html', you'll copy this code and replace the equivalent lines for the template fonts. If you have questions about this, feel free to ask your professor.
+You will also want to change this where the 'font-family' is defined for the .body section in the styles.css file
+And where 'font-weight' is defined for the h2 under your headshot, you will change it to one of the font weights that you downloaded.
+
+You may notice there are icons next to your CV, and for your socials links. If you want to change these, add more, or just check out the other options, you can do so here:
+- [Font Awesome icons](https://fontawesome.com/icons)
+Wherever you see: i class=... in your index.html, this is an icon. You can update these or add them where appropriate (perhaps in your projects.html links when we get there).
+
+In `styles.css`, the color scheme for most of the site elements is set. The teal accent color in the template can be changed by changing the hex code listed next to --link-color. Here is a site to browse for new colors. You can also do this in several code editors, like VSCode. Feel free to ask your instructor for a quick tutorial on this:
+- [HTML color picker](https://htmlcolorcodes.com/color-picker/)

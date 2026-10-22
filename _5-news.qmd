@@ -1,0 +1,12 @@
+# news.html {#sec-news-projects}
+
+Take a moment to think through recent academic and professional accomplishments
+You were accepted into DataTrail!
+Other things that count as news:
+1. classes
+2. grades and test scores
+3. awards 
+4. events, conferences, and competitions you've attended or participated in
+5. new blog posts
+
+Write a list of these in your notes and pick your favorites. Note the date they happened and update the news.html file

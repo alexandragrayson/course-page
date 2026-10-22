@@ -1,0 +1,8 @@
+# Populating your links {#sec-links}
+
+Fill in each link in index.html:
+
+- **GitHub:** `https://github.com/<username>`
+- **LinkedIn:** your public profile URL
+- **Kaggle:** `https://www.kaggle.com/<username>`
+- **Blog:** `https://<username>.github.io/blog/` (see Chapter @sec-blog)

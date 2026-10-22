@@ -1,0 +1,5 @@
+# Blog post #1
+
+## Blog post #1: question, design, and data {#sec-post-1}
+
+More details soon [11/6, when Homework 3 is assigned]

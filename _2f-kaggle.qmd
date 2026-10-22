@@ -1,0 +1,11 @@
+## 2.6 Kaggle {.unnumbered}
+
+Start with [The Beginner's Guide to Kaggle](https://www.kaggle.com/discussions/getting-started/134162). Some competitions to try:
+
+- [Digit Recognizer](https://www.kaggle.com/c/digit-recognizer), an essential computer vision problem if that interests you
+- [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
+- [Spaceship Titanic](https://www.kaggle.com/competitions/spaceship-titanic)
+- [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
+- [Store Sales: Time Series Forecasting](https://www.kaggle.com/competitions/store-sales-time-series-forecasting)
+- [Contradictory, My Dear Watson](https://www.kaggle.com/competitions/contradictory-my-dear-watson)
+- [Natural Language Processing with Disaster Tweets](https://www.kaggle.com/competitions/nlp-getting-started)

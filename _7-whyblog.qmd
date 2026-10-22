@@ -1,0 +1,31 @@
+# 7 Setting up your blog {#sec-blog}
+
+## Why blog?
+
+You might be wondering why a blog is valuable to you as a data scientist. Hopefully one of these convinces you it's a fun and worthwhile outlet:
+
+- [5 Reasons Why Every Data Scientist Should Blog](https://towardsdatascience.com/5-reasons-why-every-data-scientist-should-blog-f1d81550a6c3/)
+- [Why Data Scientists Should Definitely Be Writing for Medium](https://opendatascience.com/why-data-scientists-should-definitely-be-writing-for-medium/)
+- [Unorthodox Reasons Why Data Scientists Should Start a Blog](https://towardsdatascience.com/unorthodox-reasons-why-data-scientists-should-start-a-blog-7529cdcf777/)
+
+## Pick a template
+
+I'm using [this template](https://flo-bit.dev/blog-template/), and have a template in my github repository for your use but there are lots of great ones:
+
+- [Fuwari](https://fuwari.vercel.app/)
+- [AstroPaper](https://astro-paper.pages.dev/)
+- [Astroship](https://astroship.web3templates.com/blog)
+- [Firefly](https://firefly.cuteleaf.cn/)
+- [Chalk](https://chalk.nielsenramon.com/)
+- [blog-template-gray](https://blog-template-gray.vercel.app/)
+
+Set it up in your `blog` repo by following the template's README. It'll be at the following link: `https://<username>.github.io/blog/`.
+
+You'll update the index.html NAVBAR section's link to your blog from the current example.com to this link!
+
+## Your first post
+
+## Writing tips
+
+- [Writing an Academic Blog (Hamilton College)](https://www.hamilton.edu/academics/centers/writing/writing-resources/writing-academic-blogs)
+- [How to Write for an Academic Blog (UACES)](https://www.uaces.org/resources/articles/how-write-academic-blog)
