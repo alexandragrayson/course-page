@@ -1,9 +1,0 @@
-# 2.1 Headshot and 2.2 Bio {.unnumbered}
-
-## Headshot
-
-<!-- tips: plain background, good light, shoulders up -->
-
-## Short bio
-
-<!-- 2–4 sentences: who you are, what you're curious about, what you're working on. You'll reuse it on index.html and LinkedIn. -->

@@ -1,7 +1,0 @@
-# News and projects pages {#sec-news-projects}
-
-*Due with HW2.*
-
-## news.html
-
-<!-- what counts as news: classes, awards, events, new blog posts -->
