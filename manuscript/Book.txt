@@ -1,0 +1,15 @@
+Blog-post-#1:-question,-design,-and-data.md
+Introduction.md
+Accounts-and-repositories.md
+Headshot.md
+GitHub.md
+CV.md
+LinkedIn.md
+Kaggle.md
+Your-home-page.md
+Populating-your-links.md
+News-and-projects-pages.md
+projects.html.md
+Setting-up-your-blog.md
+Capstone-entry:-slide-deck-link.md
+Finishing-touches.md
