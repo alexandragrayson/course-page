@@ -1,0 +1,11 @@
+Blog-post-#1:-question,-design,-and-data.md
+Introduction.md
+Accounts-and-repositories.md
+CV.md
+LinkedIn.md
+Your-home-page.md
+Populating-your-links.md
+News-and-projects-pages.md
+projects.html.md
+Setting-up-your-blog.md
+Finishing-touches.md
